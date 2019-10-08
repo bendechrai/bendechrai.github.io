@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Bourke"
+Slug: bourke
+date: 2006-01-05 05:17:23
+categories: [Open Source,Random]
+---
+Well as you probably read in a previous post, we arrive in Bourke on Sunday and it was over 50 degrees in the shade.
+
+We had planned to meet Judy at the Aboriginal Health Service the next day, but forgot it was a public holiday. Tuesday morning we found out she was on holiday. But all was still well, as Michel helped us out, introduced us to everyone and we got to work getting their requirements down and collecting as much information about them as possible.
+
+Having recently played with WordPress again (for this site) I felt it would be ideal for them, and started looking at plugins and themes to get something up for them as soon as possible. Today, 2 days later, their site is hosted and ready for content editing, so we're running a training session for them tomorrow. I'm always impressed at how well open source applications can help with rapid application development. I'm not surprised, given its nature, but still always impressed. (End Open Source semi-rant.)
+
+We went on a tour of Bourke yesterday with Stu (Judy's husband who runs the [Bourke Tourist Information Centre](http://www.visitbourke.com/)), saw the local vinyards, cotton fields and citrus farms. As it was the last day of grape harvest, we were also able to go out and pick what we wanted, and came away with two shopping bags full of grapes! And fresh of the vine they taste absolutely beautiful.
+
+I came to Bourke wondering what there'd be. I arrived and was warned that it's a rough place at night - watch your step. I met others who were not so alarmist, and now think it's a great place to live. I don't think I could do it for ever, but you never know, we might come back for a year or so some time.
+
+As the locals say: once you cross the North Bourke Bridge, you'll always come back. I think we will.

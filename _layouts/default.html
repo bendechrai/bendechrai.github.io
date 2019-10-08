@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+  <script async type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+  <script type='text/javascript'>
+      (function (jQuery) {
+          window.fnames = new Array();
+          window.ftypes = new Array();
+          fnames[0] = 'EMAIL';
+          ftypes[0] = 'email';
+          fnames[1] = 'FNAME';
+          ftypes[1] = 'text';
+          fnames[2] = 'LNAME';
+          ftypes[2] = 'text';
+      }(jQuery));
+  </script>
+
+</html>

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Nerves"
+Slug: nerves
+date: 2011-05-11 13:59:00
+categories: [Entry,Personal,Work]
+---
+I started the new job today. I was a little apprehensive last night. And this morning. It wasn't about the shirt and trousers, I was feeling okay about that. I figured I wouldn't even notice to be honest. After all, I never knew what I was wearing before, so why would I notice now.
+
+No, I think the nerves were down to the unknown and uncertainty. I didn't know what I was walking in to. Was the grass really greener? Would I like the people? Would the work be challenging and interesting?
+
+Well, as with most fears, these were unsubstantiated. I arrived, met a colleague whom I knew already, was given a intro to the systems, logged in and got to learning about the applications I'd be working on.
+
+As with any assignment that requires someone to take over someone else's work, there is more fear about how bad the existing work is, especially when it hails from 4 year old technology designed for a company one tenth the size. I was happy to discover the code is really not bad. I'd seen much worse, and this, while poorly documented, was pretty straight forward.
+
+I left at the end of the day having written code and felt productive -- a first for first days.
+
+And best of all, the people are friendly, atmosphere formal but relaxed and energy positive. I like the place.

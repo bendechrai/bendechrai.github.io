@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Wind Down"
+Slug: wind-down
+date: 2011-05-04 10:56:29
+categories: [Entry,Life Changing Event,Personal,Work]
+---
+Jo asked me today if it was weird to think I only had 2 more days of work at Sputnik and the thought of moving on has been strange. Not so much the leaving Sputnik thing - as it could well be me going on holiday. Work's been pretty quiet recently too, so the fact I'm being allocated less work hasn't been so noticeable.
+
+It is strange to think that this day next week I'll be rocking up to the 3rd floor of a building in the city wearing a shirt and smart trousers, probably sitting down to a Windows machine and working for another company. What's even more strange is that, when I sit down, I'll not be employed by them, but rather paid as a supplier of services to do work for them. The day-to-day tasks won't change, but there's a psychological difference, I think. Fellow contractors - do you feel a difference between contracting and full-time? Are you treated differently by colleagues? Managers?
+
+To be honest, I didn't usually know who was contracting and full-time at Sputnik, so colleagues probably won't treat me differently. Time will tell.
+
+In readying myself, I've been changing things. I went to see our accountant on Monday to talk business entities - she's setting up a family trust for me. I've been looking in to professional indemnity and public liability insurance. I've heard most contractors don't have PI and most contract out the need for PLI. Anyone?
+
+I spent some time on Facebook creating a new [page for Australian ICT-based small businesses and contractors](https://www.facebook.com/Australian.ICT.SME.Contractors.Network).
+
+I've also been sorting out some of the infrastructure at home. I won't be using my employers, I mean client's machine for personal stuff any more, so I want to get the VPN working here, so I can connect to the home network from anywhere and access the file server, printer, etc. I want to be able to remote desktop in to a machine at home to do stuff from a public or client device to maintain privacy and security.
+
+I also set up my old phone -- I ground a Nexus One in to a bitumen road about a year ago, and it's been sitting here, repaired, for about 6 months. I've finally rooted the phone, reinstalled Android, added CaynogenMod and Tor, configured _all_ my mail accounts. This phone is now slightly more capable of being my remote device. I wonder if I can remote desktop in to my Mac with it \*grin\*
+
+So as I understand it, I now have 4 days left at Sputnik, unless I'm advised to the contrary. Tomorrow and Friday are handover days. Friday is the company monthly lunch and my leaving drinks after work. If I don't hear to the contrary, I predict Monday and Tuesday will be spent at the office doing not very much.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Productive, Relaxing, Indulgent Day"
+Slug: productive-relaxing-indulgent-day
+date: 2011-02-02 10:59:34
+categories: [Entry,Five Things]
+---
+[![](/wp-content/uploads/2011/02/02-02-2011-housewarming-150x150.jpg "02-02-2011-housewarming")](https://bendechrai.com/wp-content/uploads/2011/02/02-02-2011-housewarming.jpg)A friend of Jo's came round for morning tea today, and brought us a bottle and card that had been waiting to wing its way to us for quite some time now. It was awesome to meet her and her little boy. We had coffees, chatted, watched her boy try to eat marbles - you know, the usual. Jo then went to catch up with her women folk and go to Kinder to play with her Button while I stayed home. I worked on her web site a little, nothing more on mine in a while, and then did some more finance handover and documentation for the Open Source Developers' Club, which I resigned from a few weeks ago. It was quite a cathartic exercise to do some OSDC stuff. I read at the bookshop in a book on finding happiness, that one way is to take a step to remove something from your life that you don't want any more. I still have obligations to OSDC at present, but the numbers and levels are diminishing, and it feels great.
+
+[![](/wp-content/uploads/2011/02/02-02-2011-frankston-300x163.jpg "02-02-2011-frankston")](https://bendechrai.com/wp-content/uploads/2011/02/02-02-2011-frankston.jpg)Jo returned and we headed out to go shopping - we have very little food in the house - and stopped for a sausage roll, espresso and shared a muffin first. After all, we needed energy for shopping. No?
+
+Then we decided to go check out the local bookshop. I wasn't in a rush to get home and Jo fancied a bit of a browse. Now I think we left home at about 12.30pm or 1pm, which would mean we got in to the bookshop at about 1.30pm or 2pm. We left at 5.30pm, leaving about 30 minutes to do the shopping we'd intended to :) What a brilliant afternoon. I read the spine of every book in the business, self development and spiritual sections, and leafed through a good handful of those. I have plenty of books awaiting my eyes at home, but it's always nice to see if there's something else wanting to be read.
+
+[![](/wp-content/uploads/2011/02/02-02-2011-juice-150x150.jpg "02-02-2011-juice")](https://bendechrai.com/wp-content/uploads/2011/02/02-02-2011-juice.jpg)[![](/wp-content/uploads/2011/02/02-02-2011-moo-300x199.jpg "02-02-2011-moo")](https://bendechrai.com/wp-content/uploads/2011/02/02-02-2011-moo.jpg)We got home, I guess, at about 6.30pm and unpacked, did some laptop type stuff and then I prepared sashimi for dinner, which we ate while getting in to another episode of Alias. We stopped for a drink and to make some stock from old veggies, intending to get another episode in after that, but we've both started on our blogs now (although Moo was having none of it). Tis nearly 10pm, perhaps one more after this babe? ;D

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "My quote"
+Slug: my-quote
+date: 2006-03-14 05:50:49
+categories: [Open Source,Work Life]
+---
+Well my fears have been proved wrong - [the article itself](http://australianit.news.com.au/articles/0,7204,18421884%5E24169%5E%5Enbv%5E,00.html) is pretty good (I'm not actually that surprised, I was just worried about sounding silly).
+
+In it, Eric Wilson focuses on the increase in the use of PHP in corporate environments, particularly against ASP.NET. This is, in a way, comparing apples with pears, as PHP is a language, and ASP.NET is a framework that supports a number of other languages (C++, C#, VB .NET, etc) which it compiles to Microsoft Intermediate Language.
+
+The purpose of the article, though, is to ascertain whether or not PHP is gaining popularity in the corporate environment. Ruby gets a mention as another alternative, and the article itself finishes by saying that "PHP must battle more than just Microsoft to become a corporate standard," given the number of other open source platforms addressing real business problems.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Lunch"
+Slug: lunch
+date: 2011-04-14 12:56:16
+categories: [Entry,Food,Fun,Gratitude,On The Job,Work]
+---
+Despite the server changes that I wasn't aware of, documentation had become duplicated, files I couldn't access, and networking issued that stopped me sending changes from my development environment to the staging server, I had the best day at work in a long while today.
+
+At some point after midday, I saw Marty get up. I asked him where he was going for lunch and that if it was a pub I'd like to come along.
+
+We decided on The Union and Jimmy was also coming. I asked Tony if he'd like to join us, which he did. On the way out I told Glenn and Sam where we were going and they came long too. Aidan also joined us, as did Gil.
+
+We had a tech only lunch for the first time in a while and it was ace. I was strange that we all fitted around one table, but it was fun and much laughing was to be had.
+
+Thanks guys!

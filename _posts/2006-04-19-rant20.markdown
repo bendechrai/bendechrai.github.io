@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Rant2.0"
+Slug: rant20
+date: 2006-04-19 06:22:53
+categories: [Random]
+---
+I need to rant, and I just found my (in my opinion) rant-worthy subject.
+
+A job posting I just saw:
+
+> We're a business focussed on Web2.0 and changing the web media experience of Aussies.
+
+I'm still trying to work out what Web2.0 **is**. It seems it's about [using the web as a platform, harnessing collective intelligence (wiki, blog, ...), open data (APIs), no more software release cycles (immediate updates to online applications?), lightweight programming models (allow easy integration of online apps without dependencies?), platform independence (access app from PC/PDA/...) and rich user experiences](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html).
+
+Is it just me, or do most marketers love the phrase Web2.0 without understanding its meaning, or understanding it only to bear a couple of the qualities described above? Ignore that question. It's rhetorical.
+
+And how do you focus on Web2.0? Tim O'Reilly himself says Web2.0 is an attitude, not a platform. Can you focus on an attitude? Maybe... but I'm not so sure.
+
+> If you 'get' RSS/Atom, blogging, tagging, sharing and services like 'Technorati', 'Flickr', 'Youtube', 'Rojo' - then you will understand the kind of work we do.
+
+You write web sites?
+
+> We're looking for someone to join our stealth team, someone who loves to 'cut' quality code and who will be proud to see their efforts result into tangible products that are a first for Australia.
+
+I'm sorry! Stealth team? What is this marketing crap? Why can't people talk English?
+
+OK, maybe this is a silly point. I myself replied rather enthusiastically to a job advert that wanted a Jedi Programmer and even sent the application email from "Jedi Ben <jedi@benbalbo.com>". But that kinda invoked geeky feelings of warmth associated with the whole StarWars thing. The Stealth Team doesn't work for me - it may for others, I guess.
+
+> You need to have a very good knowledge of the technology and tools of the trade – PHP, HTML, CSS, JavaScript, SQL, XML, XSLT, WebServices and some of the various open source libraries. Join us on a 8-10 week contract initially, with a view to extending or coming on full time. We're ready to go.
+
+Hmm, nothing to rant about there. Shame.
+
+Well that rant went less that perfectly. I'm feeling rather calm and collected now, and not even sure I want to post this due to its lameness. Quite disappointing.

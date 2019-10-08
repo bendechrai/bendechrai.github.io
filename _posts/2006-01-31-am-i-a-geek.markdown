@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Am I a Geek?"
+Slug: am-i-a-geek
+date: 2006-01-31 03:06:58
+categories: [Random]
+---
+On of those silly quizzes told me [I'm definitely a geek](/2005/11/23/sad/), but my other half and a friend told me the other day I wasn't. So am I or not? It's a very serious issue!
+
+> A geek (pronounciation /gi:k/ ) is a person who is fascinated, perhaps obsessively, by obscure or very specific areas of knowledge and imagination. Geek may not always have the same meaning as the term nerd...
+> 
+> <cite><http://en.wikipedia.org/wiki/Geek></cite>
+
+I'm not sure if I'm fascinated in anyway by any areas of knowledge and imagination. I'm interested, intrigued and enthusiastic, but fascinated might be too strong a word...
+
+[Wikipedia's entry for Geek](http://en.wikipedia.org/wiki/Geek) (whose neutrality is currently disputed) has a list of seven other descriptions (there are nine points, but only seven describe the geek). Here are the ones I identify with:
+
+- A person who is interested in technology, especially computing and new media...
+- A person who has chosen concentration rather than conformity; one who pursues skill (especially technical skill) and imagination, not mainstream social acceptance. Geeks usually have a strong case of neophilia. Most geeks are adept with computers and treat hacker as a term of respect, but not all are hackers themselves...
+- A person with a devotion to something in a way that places him or her outside the mainstream. This could be due to the intensity, depth, or subject of their interest. This definition is very broad, and allows for mathematics geeks, aviation geeks, band geeks, computer geeks, gadget geeks,...
+- ...being fascinated with one thing for hours on end...
+
+That's four out of seven. The ones I don't identify with are _General Electrical Engineering Knowledge_, _A derogatory term for one with low social skills_ and _A person who swallows live animals, bugs, etc_.
+
+Does that make me 57.142857143% geek?

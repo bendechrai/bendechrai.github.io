@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Fjax"
+Slug: fjax
+date: 2006-06-27 00:22:54
+categories: [Open Source,Work Life]
+---
+It seems everyone is jumping on the AJAX bandwagon. This bandwagon has covered many miles already, but people keep jumping on board. Hopefully we don't break an axle!
+
+I found this new, thing, this morning. It's called [Fjax](http://www.fjax.net/) and is touted as being "an open, lightweight, cross-browser methodology for Ajax-style web 2.0 development". (Note to self - don't turn this post into a wtf is web2.0 rant.)
+
+It's Ajax-style - not Ajax itself, and the "clever bit" is that it uses a little embedded flash movie to perform the Ajax-style operations, rather than relying on the browser which might interpret an Ajax library differently to another browser.
+
+So it this good news? [WebMonkey interviewed Steve and Jay McDonald of Fjax](http://www.webmonkey.com/06/25/index4a.html) who mentions "that \[Fjax\] does it in a fraction of the size, and requires no code forking to work in the different browsers". Apparently it makes debugging easier too, as you can use the Flash debugger which must be so much better, as Steve challenges anyone to "pull that off in some other Ajax JavaScript development environment". While it's been a long time since I last did any Flash work, I'm sure the world of JavaScript debuggers is growing and maturing (Google: [javascript debug](http://www.google.com/search?q=javascript+debug))
+
+[O'Reilly's Radar](http://radar.oreilly.com/) has also [detected Fjax](http://radar.oreilly.com/archives/2006/06/fjax_ajax_with_flash.html), and although they experienced problems the first time they went to the site, the errors were caused by server load rather than a problem with the flash script. They reported the system to run well and feel snappy.
+
+Even [flashmagazine](http://www.flashmagazine.com/1269.htm) reckon this could be the next best thing (although they're slightly biased, I'm sure).
+
+So what's my take? Well, I personally don't see this as a great step forward at all. There are many people who still don't have the flash plugin. While [reports say that 97.7% of all PCs have the plugin](http://www.adobe.com/products/player_census/flashplayer/), there are a growing number of people who disable flash by default or, as in my case, have the plugin installed but it doesn't work (ok, blame Linux, I know you want to).
+
+The relieving news, for me, is a comment by Steve McDonald in the O'Reilly Radar article, which says that they don't expect Fjax to replace Ajax, but hope to build a relationship with Macromedia/Adobe, work on some ideas... Not that I don't want them to succeed, and only market demand can dictate that, but I'm glad that they have a realistic view and sensible approach to this. Good luck to them!
