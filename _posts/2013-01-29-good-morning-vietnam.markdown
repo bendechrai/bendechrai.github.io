@@ -3,7 +3,7 @@ layout: post
 title: "Good Morning Vietnam!"
 Slug: good-morning-vietnam
 date: 2013-01-29 18:00:21
-categories: [Food,On The Job,Travel,Work]
+tags: [Food,On The Job,Travel,Work]
 ---
 I believe I got 5 hours sleep last night; I even woke naturally before the alarm was due to go off at 7.30. I knew today was going to be a long day, so in contrast to my usual wont, I headed straight down for a quick breakfast and over the road to work. Yesterday's planning session had gone really well, and I was looking forward to going over the next component of the system.
 

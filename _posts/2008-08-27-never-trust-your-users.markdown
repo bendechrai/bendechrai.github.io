@@ -3,7 +3,7 @@ layout: post
 title: "Never trust your users!"
 Slug: never-trust-your-users
 date: 2008-08-27 03:34:25
-categories: [Security,Work Life]
+tags: [Security,Work Life]
 ---
 Time and again I see people do stupid stuff on the web. I'm talking about the developers. There's this big fat rule in the world of web development: never trust your users to do the right thing.
 

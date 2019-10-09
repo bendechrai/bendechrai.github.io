@@ -3,7 +3,7 @@ layout: post
 title: "VPSLand Staff: illiterate, incompetent or just don't care?"
 Slug: vpsland-staff-illiterate-incompetent-or-just-dont-care
 date: 2009-10-28 06:44:22
-categories: [Customer Service,Hosting,Uncategorized,Work Life]
+tags: [Customer Service,Hosting,Uncategorized,Work Life]
 ---
 I've been a customer of VPSLand's for some years in one form or another. A friend recommended them when the Melbourne PHP Users Group was looking for a new server, he'd been with them for a while. I decided to get one for MooBox too.
 

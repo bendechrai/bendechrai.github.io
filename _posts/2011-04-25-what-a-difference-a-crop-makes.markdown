@@ -3,7 +3,7 @@ layout: post
 title: "What a Difference a Crop Makes"
 Slug: what-a-difference-a-crop-makes
 date: 2011-04-25 13:59:45
-categories: [Entry,Personal,Photography,Requires Cleanup]
+tags: [Entry,Personal,Photography,Requires Cleanup]
 ---
 We watched to the ANZAC day parade today and for the first time in a while I actually got my camera out. I'll admit to having become a little intimidated recently, and today was a good fix. What I currently lack in ability to compose a photo with a camera, I make up for with the crop. Here are a few shots.
 

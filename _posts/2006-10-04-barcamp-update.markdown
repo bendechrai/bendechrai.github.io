@@ -3,7 +3,7 @@ layout: post
 title: "BarCamp update"
 Slug: barcamp-update
 date: 2006-10-04 07:12:21
-categories: [BarCamp,Conference]
+tags: [BarCamp,Conference]
 ---
 ![BarCampMelbourne](https://bendechrai.com/wp-content/uploads/2006/09/barcamp_melbourne_400_100.png)Just a quick update on [BarCampMelbourne](http://barcampmelbourne.org/) - someone suggested I email [the Mayor](http://www.melbourne.vic.gov.au/info.cfm?top=190&pa=1317&pg=1995) and see if there's any chance of funding or other assistance, so I've just written him an email.
 

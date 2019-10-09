@@ -3,7 +3,7 @@ layout: post
 title: "How strong is your password?"
 Slug: how-strong-is-your-password
 date: 2008-04-04 06:37:59
-categories: [Security]
+tags: [Security]
 ---
 The [Password Strength Checker](http://www.passwordmeter.com/) uses a number of metrics to determine how strong a given password is, including the number of characters in total, uppercase and lower case letters, numbers and symbols. It also deducts points in the event you have numbers only, repeated characters, consecutive same-case letters, sequential letters or numbers.
 

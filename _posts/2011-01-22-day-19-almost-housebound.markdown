@@ -3,7 +3,7 @@ layout: post
 title: "Day 19: Almost Housebound"
 Slug: day-19-almost-housebound
 date: 2011-01-22 10:35:27
-categories: [Entry,Family,Five Things,Fun,Indii,Lifestyle,Love]
+tags: [Entry,Family,Five Things,Fun,Indii,Lifestyle,Love]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/01/day19-breakfast-150x150.jpg "Day 19: Breakfast")](https://bendechrai.com/wp-content/uploads/2011/01/day19-breakfast.jpg)We all spent the day at home today. We had not plans at all all weekend, except the party last night, and while we were thinking of going fruit picking in Rye, we ended up staying in. It was excellent. [![](https://bendechrai.com/wp-content/uploads/2011/01/day19-reading-150x150.jpg "Day 19: Reading")](https://bendechrai.com/wp-content/uploads/2011/01/day19-reading.jpg)We started with breakfast: beans and poached eggs on hash browns with coffee, vegged out and played games with Button, home made banana and berry ice cream, Jo read books upside down (the books, not her) to Button, vegged out some more, Jo had a nap, I dragged Button around the sun room on the bean bag, ate fruit, I read Button a whole load of Hairy Maclary stories (awesome!), Jo woke up, we got fish and chips and bubbly and went to the beach, ate, Button played in the water, we chased each other in the sad a bit, and came home.
 

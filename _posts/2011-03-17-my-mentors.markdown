@@ -3,7 +3,7 @@ layout: post
 title: "My Mentors"
 Slug: my-mentors
 date: 2011-03-17 12:24:21
-categories: [Entry,Friends,Gratitude,Life Changing Event,Love,Support]
+tags: [Entry,Friends,Gratitude,Life Changing Event,Love,Support]
 ---
 Your friends and acquaintances are different for a reason. They each provide a different aspect to your life. Some more than one aspect. Many cover the same aspect. Some of them probably won't get along with each other.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Cold callers hanging up on me!"
 Slug: cold-callers-hanging-up-on-me
 date: 2007-07-06 10:23:46
-categories: [Rant]
+tags: [Rant]
 ---
 I just received a call from Anna, who was calling from Lifestyle Choice (or something like that) because my number had been specially selected for some offer, blah...
 

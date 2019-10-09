@@ -3,7 +3,7 @@ layout: post
 title: "GPG for Gmail, Yahoo! Mail, Hotmail and more"
 Slug: gpg-for-gmail-yahoo-mail-hotmail-and-more
 date: 2006-08-25 03:27:49
-categories: [Security]
+tags: [Security]
 ---
 A colleague of mine just sent me this link to [freenigma](http://www.freenigma.com/):
 

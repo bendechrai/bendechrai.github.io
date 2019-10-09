@@ -3,7 +3,7 @@ layout: post
 title: "Have you heard of a Conservation License?"
 Slug: have-you-heard-of-a-censervation-license
 date: 2006-02-03 05:20:25
-categories: [Bogie Bush,Environment]
+tags: [Bogie Bush,Environment]
 ---
 Apparently it's a license that you can obtain on certain classifications of land (for instance, if it's Crown Land) for the purpose of managing and caring for the land. The area becomes a conservation area and is you're responsibility to care for.
 

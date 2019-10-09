@@ -3,7 +3,7 @@ layout: post
 title: "Male Privilege is Tough, Isn't It?"
 Slug: male-privilege-is-tough-isnt-it
 date: 2011-10-20 00:42:46
-categories: [Personal]
+tags: [Personal]
 ---
 At the JavaOne 2011 conference, Adam Bien's presentation attracted one question that he probably wasn't expecting. Shifra Pride Raffel stood up and asked him to apologise.
 

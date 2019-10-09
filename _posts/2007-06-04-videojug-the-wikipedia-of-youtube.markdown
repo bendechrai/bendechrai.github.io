@@ -3,7 +3,7 @@ layout: post
 title: "VideoJug.com - The Wikipedia of YouTube?"
 Slug: videojug-the-wikipedia-of-youtube
 date: 2007-06-04 02:11:10
-categories: [Education,Hosting,Uncategorized,Work Life]
+tags: [Education,Hosting,Uncategorized,Work Life]
 ---
 I just heard about [VideoJug - yet another online video hosting service](http://www.videojug.com/). I though nothing of it at first, but had a look anyway.
 

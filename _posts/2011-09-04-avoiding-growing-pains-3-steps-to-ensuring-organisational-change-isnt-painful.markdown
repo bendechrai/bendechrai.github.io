@@ -3,7 +3,7 @@ layout: post
 title: "Avoiding Growing Pains: 3 Steps to Ensuring Organisational Change Isn't Painful"
 Slug: avoiding-growing-pains-3-steps-to-ensuring-organisational-change-isnt-painful
 date: 2011-09-04 10:49:51
-categories: [Business]
+tags: [Business]
 ---
 Every business goes through change - without it you cannot grow and adapt to a changing market. With big change or growth, it's inevitable that the new company direction won't align with the career objectives of some of its employees. This is not a bad thing, just a thing that happens, and being prepared for this will put you on track for a smooth(er) ride.
 

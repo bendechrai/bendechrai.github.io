@@ -3,7 +3,7 @@ layout: post
 title: "Energy and Growth"
 Slug: energy-and-growth
 date: 2011-09-24 10:59:42
-categories: [Energy,Personal]
+tags: [Energy,Personal]
 ---
 I just sat down after tidying up after a fabulous day with friends. Today, we celebrated Ôstarâ, the festival of Easter named after the Germanic Goddess. A time of fertility and growth symbolised by eggs and rabbits, we lit a fire and welcomed friends in to our home to celebrate with us.
 

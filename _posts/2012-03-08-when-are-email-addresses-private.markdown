@@ -3,7 +3,7 @@ layout: post
 title: "When are Email Addresses Private?"
 Slug: when-are-email-addresses-private
 date: 2012-03-08 00:04:03
-categories: [Legal,Legal,Privacy,Privacy]
+tags: [Legal,Legal,Privacy,Privacy]
 ---
 > "I think that email addresses aren't really private, like a phone number or postal address. My partner thinks they are. Can you be the oracle for us?!"
 

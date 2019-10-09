@@ -3,7 +3,7 @@ layout: post
 title: "Hanging with Friends"
 Slug: hanging-with-friends
 date: 2011-04-17 13:59:13
-categories: [Entry,Friends,Me Time,Personal]
+tags: [Entry,Friends,Me Time,Personal]
 ---
 Today was rejuvenating. Jo and I went to yoga this morning, and unlike yesterday I found is much easier today. Seems like 2.5 days without stretching sets you back quite far. I was surprised at how fast the hour and a half passed, wondering whether perhaps the teacher had forgotten half the routine, but no - we actually came out 10 minutes over time.
 

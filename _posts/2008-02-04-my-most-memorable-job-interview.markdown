@@ -3,7 +3,7 @@ layout: post
 title: "My most memorable job interview"
 Slug: my-most-memorable-job-interview
 date: 2008-02-04 05:37:22
-categories: [Work Life]
+tags: [Work Life]
 ---
 Job interviews can be hard work. I've had quite a few in my time, and you need to do at least a little homework before submitting yourself to the scrutiny of others. Most of my interviews have been quite ordinary, with someone asking questions and someone else interjecting occasionally trying to trip me up.
 

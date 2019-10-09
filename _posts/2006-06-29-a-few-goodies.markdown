@@ -3,7 +3,7 @@ layout: post
 title: "A few goodies"
 Slug: a-few-goodies
 date: 2006-06-29 23:00:08
-categories: [Random,Work Life]
+tags: [Random,Work Life]
 ---
 Do you use [prototype](http://prototype.conio.net/)? [Sylvain Zimmer](http://www.sylvainzimmer.com/) has written a [performance improvement for the $$ function](http://www.sylvainzimmer.com/index.php/archives/2006/06/25/speeding-up-prototypes-selector/) with a 20 fold improvement!
 

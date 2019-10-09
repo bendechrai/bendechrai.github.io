@@ -3,7 +3,7 @@ layout: post
 title: "You're a Fucking Idiot - Or How Not to Start a Conversation"
 Slug: youre-a-fucking-idiot-or-how-not-to-start-a-conversation
 date: 2012-08-29 22:59:58
-categories: [Authenticity,Communication,Consciousness,Personal]
+tags: [Authenticity,Communication,Consciousness,Personal]
 ---
 > You're a fucking idiot! You fucking people shouldn't be allowed on the fucking road! People like you are going to fucking kill yourselves you stupid idiot.
 

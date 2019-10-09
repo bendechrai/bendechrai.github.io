@@ -3,7 +3,7 @@ layout: post
 title: "Taking it Slow: Shopping in the Old Quarter"
 Slug: taking-it-slow-shopping-in-the-old-quarter
 date: 2013-02-03 04:44:30
-categories: [Culture,Tourism,Travel]
+tags: [Culture,Tourism,Travel]
 ---
 I woke up with a very dry mouth and a groggy head; two signs of a great night.
 

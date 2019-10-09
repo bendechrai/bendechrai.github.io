@@ -3,7 +3,7 @@ layout: post
 title: "Perseverance"
 Slug: perseverance
 date: 2011-03-26 11:40:34
-categories: [Entry,Five Things,Uncategorized]
+tags: [Entry,Five Things,Uncategorized]
 ---
 I finally plucked up the courage to take photos of less than 3 seconds exposure.
 

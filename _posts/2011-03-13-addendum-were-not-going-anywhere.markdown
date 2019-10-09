@@ -3,7 +3,7 @@ layout: post
 title: "Addendum: We're not going anywhere!"
 Slug: addendum-were-not-going-anywhere
 date: 2011-03-13 10:46:07
-categories: [Communication,Consciousness,Direction,Entry,Five Things,Indii,Manifestation,Opportunity,Property]
+tags: [Communication,Consciousness,Direction,Entry,Five Things,Indii,Manifestation,Opportunity,Property]
 ---
 Oh yes, I was just catching up on Jo's blog and read [her entry for Friday](http://365gratitude2010.blogspot.com/2011/03/march-11th.html). I haven't shared with my friends and family the exciting news about our move to the country. It's off.
 

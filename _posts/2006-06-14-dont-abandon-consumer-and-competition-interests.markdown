@@ -3,7 +3,7 @@ layout: post
 title: "Don't abandon consumer and competition interests"
 Slug: dont-abandon-consumer-and-competition-interests
 date: 2006-06-14 04:41:09
-categories: [Open Source,Politics]
+tags: [Open Source,Politics]
 ---
 Long time no post. I've just started a new job and have a project on the go, so apologies for being quiet. This is, in my opinion, important though.
 

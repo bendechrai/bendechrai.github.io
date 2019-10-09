@@ -3,7 +3,7 @@ layout: post
 title: "Perseverance"
 Slug: perseverance-2
 date: 2011-03-28 12:58:00
-categories: [Entry,Gratitude,Manifestation]
+tags: [Entry,Gratitude,Manifestation]
 ---
 Today gets two posts, because today two things happened to me of significance.
 

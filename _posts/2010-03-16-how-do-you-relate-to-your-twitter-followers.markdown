@@ -3,7 +3,7 @@ layout: post
 title: "How do you relate to your twitter followers?"
 Slug: how-do-you-relate-to-your-twitter-followers
 date: 2010-03-16 02:59:47
-categories: [Random]
+tags: [Random]
 ---
 I sent out a status update this morning. It read, simply "I think I just quit smoking..." Within minutes, @StopSmoking\_Now retweeted my message. I don't have a problem with that. However, within 3 hours, @QuitSmokingZone followed me and I'm unsure how to react.
 

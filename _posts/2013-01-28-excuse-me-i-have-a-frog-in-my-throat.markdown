@@ -3,7 +3,7 @@ layout: post
 title: "Excuse me, I have a Frog in my Throat"
 Slug: excuse-me-i-have-a-frog-in-my-throat
 date: 2013-01-28 18:28:38
-categories: [Culture,Food,Travel]
+tags: [Culture,Food,Travel]
 ---
 I went out for dinner with the team I'm working with in Hà Nội tonight. They'd taken me out for street food for lunch, which was divine, and thought perhaps a traditional restaurant would be a more gentle introduction to the night life on day one.
 

@@ -3,7 +3,7 @@ layout: post
 title: "I need sleep!"
 Slug: i-need-sleep
 date: 2005-12-09 00:23:04
-categories: [Open Source,Random]
+tags: [Open Source,Random]
 ---
 Thanks to everyone who turned up at OSDC! I really had a great time, learnt lots, met new people, and I even had fun helping to run the whole conference. I'm absolutely exhausted, but would do it all again tomorrow if I could!
 

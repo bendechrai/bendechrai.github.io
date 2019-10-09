@@ -3,7 +3,7 @@ layout: post
 title: "Solitary confinement"
 Slug: solitary-confinement
 date: 2006-12-13 17:32:26
-categories: [Fun,Holiday,Overseas,Travel,Uncategorized,Work Life]
+tags: [Fun,Holiday,Overseas,Travel,Uncategorized,Work Life]
 ---
 Wow - it's almost two weeks since my last post. While that's not too unusual for me, I was hoping to be a bit more active while in Canada. A lot has happened...
 

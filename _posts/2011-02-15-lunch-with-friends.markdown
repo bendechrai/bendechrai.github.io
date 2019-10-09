@@ -3,7 +3,7 @@ layout: post
 title: "Lunch with Friends"
 Slug: lunch-with-friends
 date: 2011-02-15 12:42:11
-categories: [Entry,Friends]
+tags: [Entry,Friends]
 ---
 I pretty much keep to an 8-hour work day at the office. It's the minimum expected (you generally don't get overtime in my industry) and while I do work overtime when required (rarely) I like to set an example of healthy work-life balance by not making a habit of it. This means I generally eat at my desk.
 

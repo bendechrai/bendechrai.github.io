@@ -3,7 +3,7 @@ layout: post
 title: "OpenMoko's open source mobile phone an iPhone alternative?"
 Slug: openmokos-open-source-mobile-phone-an-iphone-alternative
 date: 2007-07-09 07:43:18
-categories: [Open Source]
+tags: [Open Source]
 ---
 ![OpenMoko Neo 1973](https://bendechrai.com/wp-content/uploads/2007/07/fic-neo1973_smaller.jpg "OpenMoko Neo 1973")Announced in November 2006, the [Neo 1973](http://www.openmoko.com/products-neo-base-00-stdkit.html), named after the year in which Marty Cooper invented the mobile phone, was released to the public today. Unlike other mobile phones on the market, OpenMoko actively encourage owners to hack away on the device, going so far as to provide an [advanced kit](http://www.openmoko.com/products-neo-advanced-00-develkit.html) for an extra US$150 including a debug board, tools, an extra battery, MicroSD card and USB cable, and a rugged carry box to put them all in.
 

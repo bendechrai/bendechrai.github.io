@@ -3,7 +3,7 @@ layout: post
 title: "Traffic in Hà Nội"
 Slug: traffic-in-hanoi
 date: 2013-01-28 17:42:12
-categories: [Culture,Travel]
+tags: [Culture,Travel]
 ---
 I did some research last week so I'd have some idea of what to expect, and arrived in Việt Nam last night ready to face the mad bustling roads with mad drivers everywhere, throngs of people and general organised chaos.
 

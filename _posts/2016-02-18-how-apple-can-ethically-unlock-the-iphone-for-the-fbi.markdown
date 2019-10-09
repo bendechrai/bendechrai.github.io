@@ -3,7 +3,7 @@ layout: post
 title: "How Apple can Ethically unlock the iPhone for the FBI"
 Slug: how-apple-can-ethically-unlock-the-iphone-for-the-fbi
 date: 2016-02-18 23:18:55
-categories: [Civil Liberties,Law Enforcement,Privacy,Security,Technology]
+tags: [Civil Liberties,Law Enforcement,Privacy,Security,Technology]
 ---
 This is my proposal for how Apple could help the FBI unlock a phone, while ensuring security for all its users. I'd love your thoughts in the comments.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Ashes to Ashes, Dust to Dust"
 Slug: ashes-to-ashes-dust-to-dust
 date: 2008-06-18 06:10:50
-categories: [Environment]
+tags: [Environment]
 ---
 ![](/wp-content/uploads/2008/06/stockxchng-tyne-cot-cemetery-photo-by-ssaanen-id-892543-199x300.jpg "Cemetery")Meaning: _We come from dust; we return to dust._
 

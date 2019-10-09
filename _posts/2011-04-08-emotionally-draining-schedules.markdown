@@ -3,7 +3,7 @@ layout: post
 title: "Emotionally Draining Schedules"
 Slug: emotionally-draining-schedules
 date: 2011-04-08 08:05:49
-categories: [Communication,Energy,Entry,Friends,Gratitude,On The Job,Work]
+tags: [Communication,Energy,Entry,Friends,Gratitude,On The Job,Work]
 ---
 They're inevitable, let's face it, but no one gets any benefit from an emotionally draining day. It didn't start out that way. Far from it.
 

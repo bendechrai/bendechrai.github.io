@@ -3,7 +3,7 @@ layout: post
 title: "Changed Plans"
 Slug: changed-plans
 date: 2011-02-24 07:46:31
-categories: [Entry,Gratitude,Indii,Lifestyle]
+tags: [Entry,Gratitude,Indii,Lifestyle]
 ---
 I'm grateful for changed plans today. I received an SMS from a work colleague yesterday:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Live in Edwardian Luxury (home for sale)"
 Slug: live-in-edwardian-luxury-home-for-sale
 date: 2008-04-20 05:11:36
-categories: [Random]
+tags: [Random]
 ---
 ![Photo of 9/9 Waxman Parade, Brunswick West](https://bendechrai.com/wp-content/uploads/2008/04/bbf3d563-2019-460c-af7d-34e018901c2c.jpeg "9/9 Waxman Parade, Brunswick West")**<span style="color: #ff0000;">SOLD!</span>**
 

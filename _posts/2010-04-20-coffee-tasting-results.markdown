@@ -3,7 +3,7 @@ layout: post
 title: "Coffee Tasting Results"
 Slug: coffee-tasting-results
 date: 2010-04-20 04:22:07
-categories: [Random]
+tags: [Random]
 ---
 We tasted some coffees at work today. Here are the results...
 

@@ -3,7 +3,7 @@ layout: post
 title: "Sending Secure Messages"
 Slug: sending-secure-messages
 date: 2015-06-14 01:41:34
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 For some time, I've had a system that allows people to send encrypted messages via a web browser. It's a slightly modified ZeroBin installation, which is a proven and independently audited, open source platform. Here's a quick primer on how to use it.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Personal Information: Undervalued Precious Commodity or Currency for Convenience?"
 Slug: personal-information-undervalued-precious-commodity-or-currency-for-convenience
 date: 2012-02-27 02:49:19
-categories: [Legal,Personal Information,Privacy,Privacy,Sharing]
+tags: [Legal,Personal Information,Privacy,Privacy,Sharing]
 ---
 "Facebook admitted reading text messages belonging to smartphone users who downloaded the social-networking app." -- The (London) Sunday Times
 

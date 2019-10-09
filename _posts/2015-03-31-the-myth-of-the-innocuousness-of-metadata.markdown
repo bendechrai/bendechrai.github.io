@@ -3,7 +3,7 @@ layout: post
 title: "The Myth of the Innocuousness of Metadata"
 Slug: the-myth-of-the-innocuousness-of-metadata
 date: 2015-03-31 01:16:05
-categories: [Data Retention,Politics,Privacy,Surveillance]
+tags: [Data Retention,Politics,Privacy,Surveillance]
 ---
 The Australian Attorney General's Department (AGD) have released, under the freedom of information act, a draft, redacted copy of a fact sheet that outlines the data retention bill. There are concerning issues, both in what's been written, and what's been redacted.
 

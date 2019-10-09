@@ -3,7 +3,7 @@ layout: post
 title: "A Blank Mind"
 Slug: a-blank-mind
 date: 2011-03-01 12:09:23
-categories: [Authenticity,Energy,Entry,Friends,Sleep]
+tags: [Authenticity,Energy,Entry,Friends,Sleep]
 ---
 I could write about the fantastic time Jo and I had catching up with Julien and Ness. We enjoyed sharing a few plates and a bottle at Cookie, a fantastic restaurant in the heart of Melbourne. We shared stories of moving house, wants for the future, travel, work life balance, food, and even heard unbelievable stories of a woman's self-entitlement and manipulative nature. I had a really awesome time, but right now my head's not in a place to recall it in its full glory.
 

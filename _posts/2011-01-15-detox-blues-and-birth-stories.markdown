@@ -3,7 +3,7 @@ layout: post
 title: "Day 12: Detox Blues and Birth Stories"
 Slug: detox-blues-and-birth-stories
 date: 2011-01-15 10:24:24
-categories: [Diet,Entry,Food Intolerance,Health,Raw Food,Self Discovery]
+tags: [Diet,Entry,Food Intolerance,Health,Raw Food,Self Discovery]
 ---
 Yesterday was a day of sniffles. This morning I woke up dried up, but only cos I was sleeping on my back. I got up and started pouring everywhere again. Just watery stuff, my body wasn't happy. I wanted comfort food, despite knowing it would make me feel like shit. My first reaction was how would I cope if we lived in a mobile home. I couldn't lock myself away at the other end to recover. I was feeling sorry for myself and had a victim energy around me. I acknowledged that and sat with it for a while. How was it serving me? What use was it feeling like that.
 

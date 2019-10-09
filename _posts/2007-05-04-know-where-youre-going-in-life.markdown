@@ -3,7 +3,7 @@ layout: post
 title: "Know where you're going in life..."
 Slug: know-where-youre-going-in-life
 date: 2007-05-04 02:34:07
-categories: [Random]
+tags: [Random]
 ---
 I was just sharing my future plans with a friend, who sent me this little story:
 

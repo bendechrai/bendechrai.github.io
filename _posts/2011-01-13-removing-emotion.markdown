@@ -3,7 +3,7 @@ layout: post
 title: "Day 10: Removing Emotion"
 Slug: removing-emotion
 date: 2011-01-13 11:36:22
-categories: [Entry,Indii]
+tags: [Entry,Indii]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/01/day10-300x138.jpg "Day 10")](https://bendechrai.com/wp-content/uploads/2011/01/day10.jpg)There's nothing wrong with emotion, don't get me wrong. I'm probably one of the most emotional people I know \*wink\* I had a client email me today telling me that they expected some work from me. This work had already been flagged as something they needed, but hadn't been quoted on, never mind invoiced or paid for yet. Yet they insisted that I provide it, gave me a deadline of 4 days, else they'd seek a refund of all money they'd paid me so far, which represented a 50% up-front payment for a web site which is now live.
 

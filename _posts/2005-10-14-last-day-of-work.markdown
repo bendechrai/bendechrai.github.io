@@ -3,7 +3,7 @@ layout: post
 title: " Last day of work"
 Slug: last-day-of-work
 date: 2005-10-14 01:16:26
-categories: [Work Life]
+tags: [Work Life]
 ---
 Today is my last day of work, and I'm kinda excited. There's no break for me though - it's straight to work again on Monday, only now I'm working 10 'til 6, which means I get to sleep in a bit, if my other half lets me.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Sharing in Someone Else's Magick"
 Slug: sharing-in-someone-elses-magick
 date: 2011-02-03 11:17:41
-categories: [Energy,Entry,Friends,Manifestation,Self Discovery]
+tags: [Energy,Entry,Friends,Manifestation,Self Discovery]
 ---
 I went back to work today. A bit of a mistake, but it wasn't dreadful. I managed to get almost 6 hours of work done, but my body wasn't ready for it. I left at about 2.30pm and came home intending to go in tomorrow. I think I'll work from home. My body ain't up to travel just yet.
 

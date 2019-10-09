@@ -3,7 +3,7 @@ layout: post
 title: "Challenge/Response Email Verification"
 Slug: challengeresponse-email-verification
 date: 2007-04-27 03:22:46
-categories: [Hosting,Security,Uncategorized,Work Life]
+tags: [Hosting,Security,Uncategorized,Work Life]
 ---
 Challenge/Response email verification (CREV) is a mechanism for reducing the amount of spam you get. It works like this:
 

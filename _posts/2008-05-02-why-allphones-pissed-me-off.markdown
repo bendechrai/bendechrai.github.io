@@ -3,7 +3,7 @@ layout: post
 title: "Why Allphones pissed me off"
 Slug: why-allphones-pissed-me-off
 date: 2008-05-02 02:50:35
-categories: [Fun,Rant,Uncategorized]
+tags: [Fun,Rant,Uncategorized]
 ---
 For the past three weeks I've been getting calls on my mobile from 02 8986 3000 at least once per week day, sometimes twice or thrice. Every time I answer the call I hear "I'm sorry, all operators are currently bu" and get cut off. Rather annoying! So they quickly get added to my phone book under "Ignore".
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Simpsons come to life"
 Slug: the-simpsons-come-to-life
 date: 2006-03-06 02:50:50
-categories: [Random]
+tags: [Random]
 ---
 A bizarre little movie is making its rounds - the [Simpsons' intro played out with real actors](http://www.thesun.co.uk/article/0,,2004580002-2006100428,00.html).
 

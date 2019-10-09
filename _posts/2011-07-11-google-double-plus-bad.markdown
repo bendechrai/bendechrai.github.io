@@ -3,7 +3,7 @@ layout: post
 title: "Google Double Plus Bad?"
 Slug: google-double-plus-bad
 date: 2011-07-11 22:02:07
-categories: [Data Ownership,Legal,Privacy,Privacy]
+tags: [Data Ownership,Legal,Privacy,Privacy]
 ---
 I was "lucky" enough to get in the second round of invites for a Google+ account and immediately logged on, set up my profile and added friends to circles. Then I saw some people were posting already. I read, I followed more people and added them to circles.
 

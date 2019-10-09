@@ -3,7 +3,7 @@ layout: post
 title: "Workshop Discounts"
 Slug: workshop-discounts
 date: 2015-06-20 02:54:19
-categories: [New Zealand,Special Offer,Training and Workshops]
+tags: [New Zealand,Special Offer,Training and Workshops]
 ---
 **Note: this is a first come, first served offer!**As I'll be in New Zealand for the PHP Conference again, I'm offering a special discount on my workshops to the Wellington and Auckland communities and organisations.
 

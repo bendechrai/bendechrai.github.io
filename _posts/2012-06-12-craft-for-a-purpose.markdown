@@ -3,7 +3,7 @@ layout: post
 title: "Craft for a Purpose"
 Slug: craft-for-a-purpose
 date: 2012-06-12 13:05:15
-categories: [Craft,Personal]
+tags: [Craft,Personal]
 ---
 It's probably about time I posted a personal update. I'm not on Facebook anymore, I'm missing posting photos, I don't want to use Flickr (although I might until I have another alternative) and while I don't need validation (I know my new elf slipper-socks rock), I like to share my creations for friends, family and more to see.
 

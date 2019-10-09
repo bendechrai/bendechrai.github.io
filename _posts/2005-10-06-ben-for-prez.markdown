@@ -3,7 +3,7 @@ layout: post
 title: "Ben for Prez!"
 Slug: ben-for-prez
 date: 2005-10-06 12:14:55
-categories: [Open Source]
+tags: [Open Source]
 ---
 I'm very excited to be the proud new President of the [Melbourne PHP User Group](http://melbourne.ug.php.net/)! We had a meeting tonight to vote on incorporation of the organisation, and 6 positions were filled. Congratulations to the others:
 

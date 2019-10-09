@@ -3,7 +3,7 @@ layout: post
 title: "MySQL Backup Script"
 Slug: mysql-backup-script
 date: 2006-01-23 01:07:49
-categories: [Hosting,Open Source,Uncategorized,Work Life]
+tags: [Hosting,Open Source,Uncategorized,Work Life]
 ---
 There are oh-so-many of these on the web, so I thought I'd add another. I got inspirations from [two](http://blogs.linux.ie/xeer/2005/06/28/simple-mysql-backup/) [sources](http://bash.cyberciti.biz/backup/mysql-backup.bash.php), and here's my version.
 

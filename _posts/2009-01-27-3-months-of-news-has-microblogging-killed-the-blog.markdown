@@ -3,7 +3,7 @@ layout: post
 title: "3 months of news; has microblogging killed the blog?"
 Slug: 3-months-of-news-has-microblogging-killed-the-blog
 date: 2009-01-27 00:08:44
-categories: [Bogie Bush,Conference,Extra Curricula,Random]
+tags: [Bogie Bush,Conference,Extra Curricula,Random]
 ---
 I've just realised I haven't written anything here for almost 3 months, and yet I don't feel I've been out of touch or not been updating "followers" with my activities and news. The number of phone calls and emails I've made hasn't increased dramatically, so what's happened?
 

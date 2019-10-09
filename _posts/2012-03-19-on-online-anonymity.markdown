@@ -3,7 +3,7 @@ layout: post
 title: "On Online Anonymity"
 Slug: on-online-anonymity
 date: 2012-03-19 10:36:51
-categories: [Legal,Personal Information,Privacy,Privacy]
+tags: [Legal,Personal Information,Privacy,Privacy]
 ---
 A quote I saw recently reminded me of a conversation I had some time ago about online privacy. For the last decade or so, my handle on most internet-based services has been my real name. My partner asked me with some confusion why this is, given that I am steadfastly and acutely protective of my privacy. I maintain that I have no issue with information I choose to release to be available and attributable to me, and that my concerns with privacy is what other organisations do with my data once they have it. In fact, I believe that by putting my name to my words, I ensure accountability and ownership of those words.
 

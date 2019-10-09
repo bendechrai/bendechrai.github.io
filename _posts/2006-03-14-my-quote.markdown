@@ -3,7 +3,7 @@ layout: post
 title: "My quote"
 Slug: my-quote
 date: 2006-03-14 05:50:49
-categories: [Open Source,Work Life]
+tags: [Open Source,Work Life]
 ---
 Well my fears have been proved wrong - [the article itself](http://australianit.news.com.au/articles/0,7204,18421884%5E24169%5E%5Enbv%5E,00.html) is pretty good (I'm not actually that surprised, I was just worried about sounding silly).
 

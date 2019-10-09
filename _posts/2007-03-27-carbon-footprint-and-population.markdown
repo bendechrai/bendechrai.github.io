@@ -3,7 +3,7 @@ layout: post
 title: "Carbon Footprint and Population"
 Slug: carbon-footprint-and-population
 date: 2007-03-27 22:50:08
-categories: [Environment]
+tags: [Environment]
 ---
 A [comment](https://bendechrai.com/2006/09/19/why-i-dont-want-kids/#comment-11) on my post "Why I don't want kids" mentions the impact our daily activities have on this world. That reminds me of a conversation I ha with someone a while ago. A US TV show took a suburban family and calculated that if everyone in the world lived the way they do, they would need 12 planets to provide the resources required. This family was then sent to live with a group of extremely environmentally aware people. They had only installed their first solar-panel just after the family arrived.
 

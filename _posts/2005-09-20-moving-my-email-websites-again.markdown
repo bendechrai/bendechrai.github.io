@@ -3,7 +3,7 @@ layout: post
 title: " Moving my email & websites again!"
 Slug: moving-my-email-websites-again
 date: 2005-09-20 01:14:04
-categories: [Hosting,Random,Uncategorized]
+tags: [Hosting,Random,Uncategorized]
 ---
 It seems this is becoming a bit of a hobby of mine. No sooner has my email account settled, and along I come and decide to move it all to another place...
 

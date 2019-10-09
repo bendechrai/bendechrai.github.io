@@ -3,7 +3,7 @@ layout: post
 title: "Piracy is theft? No it's not..."
 Slug: piracy-is-theft-no-its-not
 date: 2007-07-05 05:38:04
-categories: [Copyright,Uncategorized]
+tags: [Copyright,Uncategorized]
 ---
 I found this nugget of information at the [Motion Picture Association of America (MPAA) web site](http://www.mpaa.org/) while trying to find a way to pay royalties separately from obtaining the media.
 

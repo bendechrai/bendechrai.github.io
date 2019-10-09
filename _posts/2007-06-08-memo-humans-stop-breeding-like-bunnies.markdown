@@ -3,7 +3,7 @@ layout: post
 title: "Memo humans: stop breeding like bunnies"
 Slug: memo-humans-stop-breeding-like-bunnies
 date: 2007-06-08 01:46:31
-categories: [Environment]
+tags: [Environment]
 ---
 It seems someone over at [The Age](http://www.theage.com.au/) concurs with my sentiments that the world is ever so slightly overpopulated. While humans cull species that overpopulate the world (kangaroos, rabbits, foxes, etc), the author of [Memo humans: stop breeding like bunnies](http://www.theage.com.au/news/opinion/memo-humans-stop-breeding-like-bunnies/2007/06/07/1181089232475.html?page=fullpage#contentSwap1) suggests more humane ways to reduce the population of the human species.
 

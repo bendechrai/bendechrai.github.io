@@ -3,7 +3,7 @@ layout: post
 title: "Even real people say stupid things..."
 Slug: even-real-people-say-stupid-things
 date: 2006-02-01 04:08:24
-categories: [Random]
+tags: [Random]
 ---
 In the 50/50 section [Herald Sun](http://www.heraldsun.com.au/), 31st January 2006 (again), reader Doug Townsley refers to another reader's question, why the Australian Army weren't helping fight fires, by suggesting it was for the "same reason we didn't sent the CFA to East Timor".
 

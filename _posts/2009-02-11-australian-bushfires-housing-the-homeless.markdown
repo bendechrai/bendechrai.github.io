@@ -3,7 +3,7 @@ layout: post
 title: "Australian Bushfires - Housing the Homeless"
 Slug: australian-bushfires-housing-the-homeless
 date: 2009-02-11 08:50:44
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 I've been working with my co-workers [Jon](http://www.jonathanpoh.com/) ([@jpoh](http://twitter.com/jpoh/)), [Gil](http://flamingmongrel.net/) ([@gilfer](http://twitter.com/gilfer/)), Dimitry, Becky, [Danielle](http://www.dandabelle.com/) and Andrew on a very exciting project for the past two days, and the first iteration has just been released!
 

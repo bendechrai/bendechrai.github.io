@@ -3,7 +3,7 @@ layout: post
 title: "Day 18: Communication Skills"
 Slug: communication-skills
 date: 2011-01-21 12:00:07
-categories: [Communication,Entry]
+tags: [Communication,Entry]
 ---
 Today's is quite a simple one - it's the ability to communicate at a high level. Unlike most animals, we communicate more than immediate emotion and needs.
 

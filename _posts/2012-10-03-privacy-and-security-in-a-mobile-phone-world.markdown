@@ -3,7 +3,7 @@ layout: post
 title: "Privacy and Security in a Mobile Phone World"
 Slug: privacy-and-security-in-a-mobile-phone-world
 date: 2012-10-03 05:16:35
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 **Note:** I've written this over a number of days, and it's a big topic. It's probably disjointed and needs clarification, refinement and building on. I'd love your feedback, questions and general comments so as to help me improve. My partner's friends all know I'm a staunch privacy advocate. It's not uncommon for one of them to ask me a question, via her Facebook page, or email, and I'm always quite happy to share my thoughts. Usually, it's a one line response and tips on finding out more.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Money Makes the World go Round"
 Slug: money-makes-the-world-go-round
 date: 2011-02-04 10:12:40
-categories: [Entry,Health,Money]
+tags: [Entry,Health,Money]
 ---
 Today I woke up, decided not to go to work, told work I'd work from home, got a call from work telling me to rest and get better, slept, watched the end of a movie I started a night or two ago (can't remember which one, probably cos I was half asleep), slept some more, checked Facebook, emailed Jo on and off.
 

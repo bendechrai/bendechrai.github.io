@@ -3,7 +3,7 @@ layout: post
 title: "Raw Food and Trash TV"
 Slug: raw-food-and-trash-tv
 date: 2011-01-25 14:26:21
-categories: [Entry,Friends,Raw Food]
+tags: [Entry,Friends,Raw Food]
 ---
 A little late on the post - our guest has just left, and despite nodding off on the sofa while Jo and Georgia chatted away the early hours of this morning, I could have half listened for ages.
 

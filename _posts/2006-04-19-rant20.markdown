@@ -3,7 +3,7 @@ layout: post
 title: "Rant2.0"
 Slug: rant20
 date: 2006-04-19 06:22:53
-categories: [Random]
+tags: [Random]
 ---
 I need to rant, and I just found my (in my opinion) rant-worthy subject.
 

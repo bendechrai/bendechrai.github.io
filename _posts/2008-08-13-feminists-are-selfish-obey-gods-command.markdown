@@ -3,7 +3,7 @@ layout: post
 title: "Feminists are selfish - obey God's command!"
 Slug: feminists-are-selfish-obey-gods-command
 date: 2008-08-13 03:46:53
-categories: [Random]
+tags: [Random]
 ---
 ![Feminism](http://farm1.static.flickr.com/112/277993413_a254d97b7e_m_d.jpg "Feminism")According to [the Richey Family](http://werethericheys.blogspot.com/2008/08/tied-down.html "The Richey Family"), being tied down is the lord's command. The author, Crystal, provides a few quotes outlining "Selfish(feminist) reasons women don't want children" and I'm one of them! Of course her quote of my post is rather ambiguous and arguably out of context, so I imagine the others are too.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Make way - spin doctor coming through"
 Slug: make-way-spin-doctor-coming-through
 date: 2007-03-27 02:38:12
-categories: [Random]
+tags: [Random]
 ---
 I can't laugh at this, it's just too expected. But I thought I'd share anyway.
 

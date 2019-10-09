@@ -3,7 +3,7 @@ layout: post
 title: "Access cards to protect personal identity"
 Slug: access-cards-to-protect-personal-identity
 date: 2007-03-15 23:19:16
-categories: [Politics,Privacy,Security]
+tags: [Politics,Privacy,Security]
 ---
 I heard a news article on a radio show this morning on the planned "health and social services access card". The idea is this card will reduce the red tape involved with accessing government services such as Medicare and Centrelink.
 

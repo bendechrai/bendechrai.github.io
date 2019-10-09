@@ -3,7 +3,7 @@ layout: post
 title: "Family"
 Slug: family
 date: 2011-03-07 10:39:04
-categories: [Energy,Entry,Family,Five Things,Gratitude,Indii,Love]
+tags: [Energy,Entry,Family,Five Things,Gratitude,Indii,Love]
 ---
 I got up at 6am. Hmm, 6.30. I was supposed to get up at 6am.
 

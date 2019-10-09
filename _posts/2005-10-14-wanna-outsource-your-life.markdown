@@ -3,7 +3,7 @@ layout: post
 title: "Wanna outsource your life?"
 Slug: wanna-outsource-your-life
 date: 2005-10-14 03:47:03
-categories: [Random]
+tags: [Random]
 ---
 del.icio.us sent me to [an Esquire article on outsourcing your life](http://www.smartmoney.com/esquire/index.cfm?Story=20050909-outsource), and it appears that for as little as AU$2500 you can have your life run by others.
 

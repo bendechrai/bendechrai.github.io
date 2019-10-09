@@ -3,7 +3,7 @@ layout: post
 title: "Keeping Your Workers Busy"
 Slug: keeping-your-workers-busy
 date: 2011-04-11 13:04:57
-categories: [Authenticity,Business,Communication,Consciousness,Entry,Work]
+tags: [Authenticity,Business,Communication,Consciousness,Entry,Work]
 ---
 We live in a society where constant productivity and accountability are highly sought after. Some middle manager needs to keep to her KPI (key performance indicator - the measure that determines if a job is being done), and those KPIs are invariably in some way linked to the KPIs of the people she manages. Those people then do everything in their power to keep their KPIs high.
 

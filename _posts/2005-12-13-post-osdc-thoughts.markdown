@@ -3,7 +3,7 @@ layout: post
 title: "Post OSDC thoughts"
 Slug: post-osdc-thoughts
 date: 2005-12-13 04:52:04
-categories: [Conference,Open Source]
+tags: [Conference,Open Source]
 ---
 The organisers have been resting a little - yours truly just recovered from a head cold over the weekend. I think the work load took it's toll in the end, but fun was definitely had by all!
 

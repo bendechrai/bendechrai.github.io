@@ -3,7 +3,7 @@ layout: post
 title: "Offer Accepted!"
 Slug: offer-accepted
 date: 2011-02-27 10:49:53
-categories: [Entry,Family,Five Things,Gardening,Gratitude,Indii,Life Changing Event,Lifestyle,Manifestation,Opportunity,Property]
+tags: [Entry,Family,Five Things,Gardening,Gratitude,Indii,Life Changing Event,Lifestyle,Manifestation,Opportunity,Property]
 ---
 We got an SMS from the agent at 9:30am today telling us he'd be at the property at 11am to show us around again. We'd just arrived at Saffs, quite possibly Castlemaine's premier cafe, for breakfast and were giddy at the excitement of seeing it again. I assumed that the offer had been accepted, else it would be a bit weird to be invited around again, but didn't say anything in case I was jinxing us. The butterflies in our tummies were going hell for leather though, and despite all logical sense saying not to get our hopes up, I'm not one to forego some adrenaline and excitement just in case my heart's broken later on. Seize the day, etc...
 

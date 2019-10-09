@@ -3,7 +3,7 @@ layout: post
 title: "Why I Moved from Signal to WhatsApp"
 Slug: why-i-moved-from-signal-to-whatsapp
 date: 2016-06-09 06:58:28
-categories: [Freedom,Open Source,Opinion,Privacy,Security]
+tags: [Freedom,Open Source,Opinion,Privacy,Security]
 ---
 Signal, created by [Whisper Systems](https://whispersystems.org/), allows you to send secure, encrypted messages to other Signal users, both text and voice.
 

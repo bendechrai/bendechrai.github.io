@@ -3,7 +3,7 @@ layout: post
 title: "Dear Temptee: Beware of Microsoft's BizSpark"
 Slug: dear-temptee-beware-of-microsofts-bizspark
 date: 2008-11-07 06:16:37
-categories: [Open Source,Rant]
+tags: [Open Source,Rant]
 ---
 There is devilry afoot in the Redmond offices. That tautology became stronger on the 5th of November with this press release:
 

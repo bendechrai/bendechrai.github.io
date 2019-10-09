@@ -3,7 +3,7 @@ layout: post
 title: "Client: Me. Job Code: Administrative Time "
 Slug: client-me-job-code-administrative-time
 date: 2011-04-07 12:29:43
-categories: [Energy,Entry,Life Changing Event,Lifestyle,Manifestation,Money,On The Job,Opportunity,Work]
+tags: [Energy,Entry,Life Changing Event,Lifestyle,Manifestation,Money,On The Job,Opportunity,Work]
 ---
 I've spent the last week doing admin work on myself. I've been totally consumed with a change in our circumstances that most of my waking time has been spent thinking about what I need to do. I've opened the filing cabinet of my life and worked out how to reorganise it to make it more streamlined.
 

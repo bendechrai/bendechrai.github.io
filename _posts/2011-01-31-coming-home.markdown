@@ -3,7 +3,7 @@ layout: post
 title: "Coming Home"
 Slug: coming-home
 date: 2011-01-31 12:59:57
-categories: [Entry,Family,Health,Travel]
+tags: [Entry,Family,Health,Travel]
 ---
 Woke up this morning at 6am, after a relatively early night, and had breakfast and lounged around. I was taking it very easy still. At about 9am we started finishing the packing (having expected to leave the day before we were mostly packed already any way) and tidied up before checking out.
 

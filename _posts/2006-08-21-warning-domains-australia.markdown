@@ -3,7 +3,7 @@ layout: post
 title: "Warning: Domains Australia Pty Ltd"
 Slug: warning-domains-australia
 date: 2006-08-21 00:04:22
-categories: [Hosting,Uncategorized]
+tags: [Hosting,Uncategorized]
 ---
 It seems a domain scammer out there has caught the eye of auDA (the Australian domain name administrator).
 

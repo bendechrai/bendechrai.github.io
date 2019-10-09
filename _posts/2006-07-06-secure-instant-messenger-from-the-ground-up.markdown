@@ -3,7 +3,7 @@ layout: post
 title: "Secure Instant Messenger from the ground up"
 Slug: secure-instant-messenger-from-the-ground-up
 date: 2006-07-06 01:14:16
-categories: [Open Source,Security]
+tags: [Open Source,Security]
 ---
 > CSpace provides a platform for secure, decentralized, user-to-user communication over the internet.
 

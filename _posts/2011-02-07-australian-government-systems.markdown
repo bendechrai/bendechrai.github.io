@@ -3,7 +3,7 @@ layout: post
 title: "Australian Government Systems"
 Slug: australian-government-systems
 date: 2011-02-07 12:59:22
-categories: [Customer Service,Entry]
+tags: [Customer Service,Entry]
 ---
 So you know I had an operation, right? I went to Medicare today to submit the outpatient receipts, and got 72% of the costs back, which when you consider how much a surgeon and anaesthetist cost, never mind the supporting and admin staff, can amount to quite a bit. I am thankful that I live in a country that has a medical system that provides support to its citizens for expensive treatments. Australians have the Safety Net, which provides rebates above standard allowances when you go over an annual limit.
 

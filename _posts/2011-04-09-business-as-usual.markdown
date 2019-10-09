@@ -3,7 +3,7 @@ layout: post
 title: "Business as Usual"
 Slug: business-as-usual
 date: 2011-04-09 11:43:27
-categories: [Entry,Five Things,Indii,Musings,Work]
+tags: [Entry,Five Things,Indii,Musings,Work]
 ---
 Or not so usual. It's been a while since I sat down to work at home, and it's caught up on me.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Spain legalise copyright infringement!"
 Slug: spain-legalise-copyright-infringement
 date: 2006-06-28 04:17:51
-categories: [Copyright,Politics,Uncategorized]
+tags: [Copyright,Politics,Uncategorized]
 ---
 Maybe they don't think so, but as one person commented in the slashdot article, it's pretty damn close to it!
 

@@ -3,7 +3,7 @@ layout: post
 title: "I'm sorry sir, but you have to be prepared for the worst..."
 Slug: im-sorry-sir-but-you-have-to-be-prepared-for-the-worst
 date: 2006-10-18 04:49:42
-categories: [Random,Work Life]
+tags: [Random,Work Life]
 ---
 My trusty IBM T20 went through a mid-life crisis a couple of years ago, went into a one-month coma about 6 months ago and is now on the verge of a heart attack.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Banks going Biometric"
 Slug: banks-going-biometric
 date: 2012-10-05 13:57:56
-categories: [Data Sovereignty,Personal,Privacy,Security,Uncategorized]
+tags: [Data Sovereignty,Personal,Privacy,Security,Uncategorized]
 ---
 Identity is usually verified by checking one or more of three pieces of information:
 

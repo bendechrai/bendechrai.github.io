@@ -3,7 +3,7 @@ layout: post
 title: "They're shooting monks in Burma!"
 Slug: theyre-shooting-monks-in-burma
 date: 2007-09-27 00:05:32
-categories: [Politics]
+tags: [Politics]
 ---
 Burma is ruled by one of the most brutal military dictatorships in the world. For decades the Burmese regime has fought off pressure--imprisoning elected leader Aung San Suu Kyi and democracy activists, wiping out thousands of villages, imposing forced labour, creating refugees.
 

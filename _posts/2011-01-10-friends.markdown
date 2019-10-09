@@ -3,7 +3,7 @@ layout: post
 title: "Day 7: Friends"
 Slug: friends
 date: 2011-01-10 12:32:08
-categories: [Entry]
+tags: [Entry]
 ---
 This won't be a long one. We had friends round tonight, and it's late, so this is a record for my diary, with photos. Dan and his new woman Kellea came for dinner and were very happy with the huge raw dinner Jo prepared. Started with Strawberry Daiquiris and Elderflower Bubbly, main course was salmon, beet salad, avocado and tomato. Dessert was some mixed berry cheesecake and a nutty other type of cake whose name I can't remember but taste is divine. All raw, totally vegan (bar the salmon).
 

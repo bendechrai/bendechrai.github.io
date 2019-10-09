@@ -3,7 +3,7 @@ layout: post
 title: "Don't Wait"
 Slug: dont-wait
 date: 2011-04-19 13:59:57
-categories: [Authenticity,Business,Communication,Consciousness,Energy,Entry,On The Job,Perspective,Work]
+tags: [Authenticity,Business,Communication,Consciousness,Energy,Entry,On The Job,Perspective,Work]
 ---
 An expansion on yesterday. There's a lesson in it.
 

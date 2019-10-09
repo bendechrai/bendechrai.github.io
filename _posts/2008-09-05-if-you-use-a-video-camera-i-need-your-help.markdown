@@ -3,7 +3,7 @@ layout: post
 title: "If you use a video camera, I need your help!"
 Slug: if-you-use-a-video-camera-i-need-your-help
 date: 2008-09-05 01:12:04
-categories: [Work Life]
+tags: [Work Life]
 ---
 If you're interested in a new range of camera stabilisation equipment that I'm planning to develop then I need your help. Please [complete this survey](http://moobox.com.au/survey/) - it only takes 5 or 10 minutes.
 

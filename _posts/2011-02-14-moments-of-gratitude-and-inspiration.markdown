@@ -3,7 +3,7 @@ layout: post
 title: "Moments of gratitude and inspiration"
 Slug: moments-of-gratitude-and-inspiration
 date: 2011-02-14 11:37:10
-categories: [Entry,Fun,Gratitude,Manifestation,Money,Music]
+tags: [Entry,Fun,Gratitude,Manifestation,Money,Music]
 ---
 Burlesque soundtrack playing at full whack. Bottle of red polished off. Two more episodes of Alias season 2 down. Desperate Housewives episode 7 ready and prepped. Blog writing begins.
 

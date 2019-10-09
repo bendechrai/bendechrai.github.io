@@ -3,7 +3,7 @@ layout: post
 title: "Easter: Round One"
 Slug: easter-round-one
 date: 2011-04-22 10:44:08
-categories: [Entry,Family,Fun,Personal]
+tags: [Entry,Family,Fun,Personal]
 ---
 _Today is a two post day - this is post one._We woke up this morning and Button was eager to look for eggs. Jo had hidden a bag of mini chocolate eggs and a whole load of home-crafted felt eggs around the living room and kitchen last night.
 

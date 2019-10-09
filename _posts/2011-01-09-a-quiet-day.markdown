@@ -3,7 +3,7 @@ layout: post
 title: "Day 6: A Quiet Day"
 Slug: a-quiet-day
 date: 2011-01-09 12:10:43
-categories: [Diet,Entry,Five Things,Food Intolerance,Gardening,Health]
+tags: [Diet,Entry,Five Things,Food Intolerance,Gardening,Health]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/01/day6-garden-300x199.jpg "Jo and Goose working in the garden")](https://bendechrai.com/wp-content/uploads/2011/01/day6-garden.jpg)I broke my raw diet a couple of times this weekend, but did so consciously. It's become quite hard to maintain the diet when the types of meals you can prepare are quite numbered. It's a little more difficult as Jo's on a FODMAP diet too, which means no legumes, pulses, and half the fruit and vegetables you can imagine are also out. The worst part for me, though, was lunch today. Soft rolls (not white bleached though), organic whole cooked chook, avo, mayo, tomato and cucumber. Other than gluten free, I've not had bread in such a long time, and after eating this meal, my body shut down to digest. By shut down I mean I couldn't get up (well, really didn't want to), I was getting very tired, nodding off, moved myself to the sofa and fell asleep.
 

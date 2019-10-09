@@ -3,7 +3,7 @@ layout: post
 title: "More Bonding"
 Slug: more-bonding
 date: 2011-02-20 12:59:31
-categories: [Entry,Family,Five Things,Gratitude,Lifestyle,Love,Self Discovery]
+tags: [Entry,Family,Five Things,Gratitude,Lifestyle,Love,Self Discovery]
 ---
 Jo was quite unwell today, to the extent that she didn't leave the house and had 3 or 4 hours sleep during the day. I asked if there was anything I could do. "Everything today, love" was her response. She wondered if she'd need to call Burton's dad to take care of her.
 

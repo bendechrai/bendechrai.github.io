@@ -3,7 +3,7 @@ layout: post
 title: "If it looks like a Duck"
 Slug: if-it-looks-like-a-duck
 date: 2013-01-30 14:36:33
-categories: [Consciousness,Culture,Food,Travel]
+tags: [Consciousness,Culture,Food,Travel]
 ---
 Well, to be honest, it didn't look anything like a duck. I don't even know if it tasted like duck, not having tried it before, but it certainly didn't quack like one.
 

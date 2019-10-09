@@ -3,7 +3,7 @@ layout: post
 title: "Free SSL Certificates!"
 Slug: free-ssl-certificates
 date: 2006-03-28 01:57:35
-categories: [Hosting,Uncategorized,Work Life]
+tags: [Hosting,Uncategorized,Work Life]
 ---
 A friend asked me today where he can get free SSL certs, as he'd heard me mention this before. [CAcert](http://cacert.org/) offer this service, but before you get all security conscious:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Day 4: The Power of Manifestation"
 Slug: the-power-of-manifestation
 date: 2011-01-06 21:47:27
-categories: [Direction,Entry,Life Changing Event,Manifestation]
+tags: [Direction,Entry,Life Changing Event,Manifestation]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/01/day4-e1294350399192-300x138.jpg "Filtering Motorbike")](https://bendechrai.com/wp-content/uploads/2011/01/day4-e1294350399192.jpg)It's an early post today! I rode to work on the motorbike this morning. Being a Friday, I'd normally go to Jo's work place with he in the car and get the train from there. I'd then take the train home; a 1h15 ride that get's me in just before 18:30. On the bike I can be home by 17:45 depending on the traffic. While I won't get to read [my current book](http://www.magiciansway.com/reviews.php "The Magician's Way by William Whitecloud") today, I will get an extra 45 minutes with Jo and Goose.
 

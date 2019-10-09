@@ -3,7 +3,7 @@ layout: post
 title: "Today has been full of Magick"
 Slug: today-has-been-full-of-magick
 date: 2011-03-18 04:27:59
-categories: [Energy,Entry,Gratitude,Indii,Life Changing Event,Love,Self Discovery]
+tags: [Energy,Entry,Gratitude,Indii,Life Changing Event,Love,Self Discovery]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/03/magick.jpg "Magick")](https://bendechrai.com/wp-content/uploads/2011/03/magick.jpg)
 

@@ -3,7 +3,7 @@ layout: post
 title: "My Reason for Travel"
 Slug: my-reason-for-travel
 date: 2011-01-29 08:25:24
-categories: [Entry,Family,Five Things,Health,Indii,Life Changing Event,Lifestyle,Love,Opportunity,Self Discovery]
+tags: [Entry,Family,Five Things,Health,Indii,Life Changing Event,Lifestyle,Love,Opportunity,Self Discovery]
 ---
 [![](/wp-content/uploads/2011/01/29-01-2011-prep-150x150.jpg "Prep")](https://bendechrai.com/wp-content/uploads/2011/01/29-01-2011-prep.jpg)Okay, for those that don't follow Jo on Facebook, an update on my day. Some of you knew I was having an operation today, and the news is all positive. I feel very blessed to have been able to choose the best in the world to perform the procedure, have had my fantastic woman with me for support, and her beautiful daughter to keep me distracted and entertain me in her own, unique way :) It also doesn't hurt that we're in one of Australia's best weather climates at a nice resort with a pool (not that I can use the pool post op).
 

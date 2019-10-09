@@ -3,7 +3,7 @@ layout: post
 title: "BarCamp Melbourne"
 Slug: barcamp-melbourne
 date: 2007-08-23 23:49:58
-categories: [BarCamp,Conference,Education,Open Source,Uncategorized,Work Life]
+tags: [BarCamp,Conference,Education,Open Source,Uncategorized,Work Life]
 ---
 [![BarCamp Melbourne 2.0](https://bendechrai.com/wp-content/uploads/2007/08/barcamp_melbourne_20_400_100.png)](http://barcampmelbourne.org/)[BarCamp Melbourne 2.0](http://barcampmelbourne.org/) planning is now well under way, and the event is slated to run on the 1st and 2nd of March 2008. The first BarCamp Melbourne had 10 participants, which isn't bad considering the venue was over 2 hours from Melbourne! This time, we're looking for a venue in, or very close to, the centre of Melbourne, and hope to get 50 to 100 participants.
 

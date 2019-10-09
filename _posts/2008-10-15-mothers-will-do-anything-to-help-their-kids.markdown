@@ -3,7 +3,7 @@ layout: post
 title: "Mothers will do anything to help their kids"
 Slug: mothers-will-do-anything-to-help-their-kids
 date: 2008-10-15 11:14:18
-categories: [Random]
+tags: [Random]
 ---
 This email came to the [Melbourne PHP Users Group](http://phpmelb.org/) today:
 

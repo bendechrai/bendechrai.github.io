@@ -3,7 +3,7 @@ layout: post
 title: "Raw Energy"
 Slug: raw-energy
 date: 2011-02-18 08:37:11
-categories: [Entry,Indii,Love]
+tags: [Entry,Indii,Love]
 ---
 People who allude to things, ideas, masking words from emotion, have me second guessing their intent. I think they're up to something. They're manipulating a situation.
 

@@ -3,7 +3,7 @@ layout: post
 title: "First Post!"
 Slug: first-post
 date: 2005-09-19 00:11:53
-categories: [Random]
+tags: [Random]
 ---
 Well, I think from now on, I'm going to keep my on-line life restricted to a blog and a photo album (to be created). I'm trying to simplify my life. My life is in need of simplifying at the moment. A lot.
 

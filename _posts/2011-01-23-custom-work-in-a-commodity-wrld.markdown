@@ -3,7 +3,7 @@ layout: post
 title: "Day 20: Custom Work in a Commodity World"
 Slug: custom-work-in-a-commodity-wrld
 date: 2011-01-23 11:23:40
-categories: [Consumerism,Customer Service,Entry,Lifestyle]
+tags: [Consumerism,Customer Service,Entry,Lifestyle]
 ---
 We went to the Mornington Market today and saw some awesome cast iron glass/bottle holders (and some that would hold your fishing rod too!), but none quite right for us. The closest was one with a spike (for the beach) and space for two glasses and two bottles, but we have 3 people and don't need a bottle holder.
 

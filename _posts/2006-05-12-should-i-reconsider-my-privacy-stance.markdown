@@ -3,7 +3,7 @@ layout: post
 title: "Should I reconsider my privacy stance?"
 Slug: should-i-reconsider-my-privacy-stance
 date: 2006-05-12 07:05:05
-categories: [Politics]
+tags: [Politics]
 ---
 Some people who know me might think I'm a bit of a [privacy](https://bendechrai.com/2006/04/05/privacy-law-goes-too-far-my-counter-offer/) [freak](https://bendechrai.com/2005/10/14/wanna-outsource-your-life/). This is true to a certain extent. I try to limit the amount of personally identifiable information that gets out to others. I don't provide optional information on web sites and web applications, unless I see a direct benefit from doing so. [LinkedIn](http://linkedin.com/) has [information on when and where I worked and studied](http://www.linkedin.com/in/benbalbo) and a list of some people I know. This gives me a direct advantage. Providing my mobile number to an online survey company does not, so I don't provide it.
 

@@ -3,7 +3,7 @@ layout: post
 title: "It Burns!"
 Slug: it-burns
 date: 2011-07-02 12:19:17
-categories: [Friends,Fun,Personal]
+tags: [Friends,Fun,Personal]
 ---
 [![](/wp-content/uploads/2011/07/IMG_1522-150x150.jpg "Me twirling for the first time")](/wp-content/uploads/2011/07/IMG_1522.jpg)I remember, as a child, watching someone juggling with fire. I remember lots of fire being present in public celebrations when I grew up in Germany. I remember bonfire night in the UK, sparklers, Catherine wheels. I remember festivals with fire twirlers and more bonfires. I remember only last year going to the Winter Solstice at the Collingwood Children's Farm for a bonfire and fireworks and being excited to see 3 fire twirlers, accompanied by someone on drums, perform.
 

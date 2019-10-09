@@ -3,7 +3,7 @@ layout: post
 title: "Buying another House"
 Slug: buying-another-house
 date: 2011-02-26 12:09:52
-categories: [Entry,Family,Indii,Lifestyle,Property]
+tags: [Entry,Family,Indii,Lifestyle,Property]
 ---
 [![](/wp-content/uploads/2011/02/2349097ao-300x225.jpg "House")](https://bendechrai.com/wp-content/uploads/2011/02/2349097ao.jpg)We went away this weekend to have a look at more property. Having seen one on Wednesday we now had [a firm list of requirements to tick off](http://365gratitude2010.blogspot.com/2011/02/feb-23rd_23.html). Most were flexible, while some, like proximity to a train station, were must-haves. We arrived at our destination and visited the local market before heading in to town for a noon breakfast, caught up with a friend who lives round here before heading out to the first property. Not certain whether we were meeting the agent at the property itself or the place he had just had an open for inspection at, we headed to the open to make sure he didn't hang around waiting for us. It was a 1 acre property with an established house on it, not what we were looking for, but we decided to have a look any way.
 

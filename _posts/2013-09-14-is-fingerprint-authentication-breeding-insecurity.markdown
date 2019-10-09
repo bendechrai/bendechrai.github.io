@@ -3,7 +3,7 @@ layout: post
 title: "Is Fingerprint Authentication Breeding Insecurity?"
 Slug: is-fingerprint-authentication-breeding-insecurity
 date: 2013-09-14 03:54:47
-categories: [Data Sovereignty,Privacy,Security,Technology]
+tags: [Data Sovereignty,Privacy,Security,Technology]
 ---
 ![iphone5s](https://bendechrai.com/wp-content/uploads/2013/09/iphone5s.png)The latest iPhones have just been released, and the latest feature, available in the iPhone5S, is the fingerprint scanner. This funky bit of technology allows you to program your fingerprint in to the phone, and then unlock it with a touch. No more remembering security codes. Apple say the fingerprint will be securely stored on the phone, but I'm not sure as yet whether a they store enough data to simply verify your fingerprint later, or enough to reproduce your fingerprint. They do, however, add that it will only be stored on the phone, not sent to Apple or stored in "the cloud".
 

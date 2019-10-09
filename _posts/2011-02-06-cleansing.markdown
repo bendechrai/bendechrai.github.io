@@ -3,7 +3,7 @@ layout: post
 title: "Cleansing"
 Slug: cleansing
 date: 2011-02-06 11:15:38
-categories: [Entry,Family,Five Things,Fun,Indii,Lifestyle,Quiet Time,Thermomix]
+tags: [Entry,Family,Five Things,Fun,Indii,Lifestyle,Quiet Time,Thermomix]
 ---
 Executive summary: I started fixing the file server and cleaned out the garage today.
 

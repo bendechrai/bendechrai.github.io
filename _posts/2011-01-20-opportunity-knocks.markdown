@@ -3,7 +3,7 @@ layout: post
 title: "Day 17: Opportunity Knocks"
 Slug: opportunity-knocks
 date: 2011-01-20 11:43:46
-categories: [Direction,Entry,Manifestation,Opportunity,Self Discovery]
+tags: [Direction,Entry,Manifestation,Opportunity,Self Discovery]
 ---
 I've had so many opportunities presented to me recently, it's quite bizarre. I recently gained clarity in what it is my new business is going to provide, and it's a first of its kind. An opportunity like that doesn't come along often. Usually, we have to find a point of difference in an existing market. My point of difference is, no-one's done this before.
 

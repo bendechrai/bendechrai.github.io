@@ -3,7 +3,7 @@ layout: post
 title: "Beautiful Souls"
 Slug: beautiful-souls
 date: 2011-04-20 13:59:22
-categories: [Energy,Entry,Food,Friends,Fun,Gratitude,Musings,Personal]
+tags: [Energy,Entry,Food,Friends,Fun,Gratitude,Musings,Personal]
 ---
 I met some new people today, some friends of Jo's that I hadn't seen before, a part of her life I hadn't entered yet. It sounds a lot more mysterious than it is...
 

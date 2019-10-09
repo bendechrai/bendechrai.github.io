@@ -3,7 +3,7 @@ layout: post
 title: "Black Swan"
 Slug: black-swan
 date: 2011-03-08 12:02:07
-categories: [Empathy,Energy,Entry]
+tags: [Empathy,Energy,Entry]
 ---
 We watched [Black Swan](http://www.imdb.com/title/tt0947798/) tonight. If you've not seen the film, this might constitute a spoiler.
 

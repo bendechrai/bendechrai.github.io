@@ -3,7 +3,7 @@ layout: post
 title: "Honest Communication"
 Slug: honest-communication
 date: 2011-03-04 10:39:07
-categories: [Authenticity,Communication,Consciousness,Entry]
+tags: [Authenticity,Communication,Consciousness,Entry]
 ---
 On the way to work this morning, I saw a post from a friend on Facebook:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Reframing"
 Slug: reframing
 date: 2011-03-19 10:19:28
-categories: [Direction,Energy,Entry,Five Things]
+tags: [Direction,Energy,Entry,Five Things]
 ---
 3rd Saturday of the month is Mornington Racecourse Market! Yay! So off we went, only to find it's a Sunday market!
 

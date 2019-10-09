@@ -3,7 +3,7 @@ layout: post
 title: "Open Source Developers' Club AGM"
 Slug: open-source-developers-club-agm
 date: 2006-03-07 00:26:40
-categories: [Open Source,Work Life]
+tags: [Open Source,Work Life]
 ---
 The OSDC AGM will be held on Wednesday the 22nd of March at 6:30pm
 

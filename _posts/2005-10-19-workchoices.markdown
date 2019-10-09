@@ -3,7 +3,7 @@ layout: post
 title: "WorkChoices"
 Slug: workchoices
 date: 2005-10-19 01:52:21
-categories: [Politics]
+tags: [Politics]
 ---
 > Trade unions ... were abolished. Along with the unions went other gains in workers' rights including the destruction of minimum wage.
 

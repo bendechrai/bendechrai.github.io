@@ -3,7 +3,7 @@ layout: post
 title: "Day 9: Working on our Wealth"
 Slug: working-on-our-wealth
 date: 2011-01-12 12:15:31
-categories: [Direction,Entry,Five Things]
+tags: [Direction,Entry,Five Things]
 ---
 Today, Jo and I worked on our five things. It was so much fun. Jo was knitting while I talked to her about how this new business idea was going to work. She told me what she wanted and needed, and how she'd want to interact with the product. I was taking copious notes and drawing shit down for later. I'd try and work her requirements into something feasible, and she crushed a number of preconceptions I had about web development in general and opened my eyes to other possibilities. I had become engrossed with the product and couldn't see it clearly any more.
 

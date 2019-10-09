@@ -3,7 +3,7 @@ layout: post
 title: "A little respect (just a little bit)"
 Slug: a-little-respect-just-a-little-bit
 date: 2007-09-26 23:28:44
-categories: [Random]
+tags: [Random]
 ---
 In my wildest dreams, I would not have imagined that the most popular post on my site would have been [Why I Don't Want Kids](https://bendechrai.com/2006/09/19/why-i-dont-want-kids/)!
 

@@ -3,7 +3,7 @@ layout: post
 title: "Howard and Rudd get on just fine!"
 Slug: howard-and-rudd-get-on-just-fine
 date: 2007-11-08 13:50:47
-categories: [Fun,Politics,Random,Uncategorized]
+tags: [Fun,Politics,Random,Uncategorized]
 ---
 Who says Howard and Rudd don't get along? [Google's 2007 Australian Federal Election](http://www.google.com.au/election2007/) site allows you to view [Australian election content in Google Maps](http://maps.google.com.au/maps/mpl?moduleurl=http://voteaustralia.googlepages.com/election.xml).
 

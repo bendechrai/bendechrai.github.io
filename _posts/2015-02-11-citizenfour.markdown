@@ -3,7 +3,7 @@ layout: post
 title: "CitizenFour"
 Slug: citizenfour
 date: 2015-02-11 06:23:39
-categories: [Civil Liberties,Edward Snowden,Opinion,Privacy,Security]
+tags: [Civil Liberties,Edward Snowden,Opinion,Privacy,Security]
 ---
 I went to see CitizenFour last night. This review contains some minor spoilers which I don't expect to detract from your experience of watching the film; something I highly recommend you do. Checkout the [list of screenings here](https://citizenfourfilm.com/screenings-all).
 

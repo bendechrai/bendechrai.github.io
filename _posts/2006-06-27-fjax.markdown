@@ -3,7 +3,7 @@ layout: post
 title: "Fjax"
 Slug: fjax
 date: 2006-06-27 00:22:54
-categories: [Open Source,Work Life]
+tags: [Open Source,Work Life]
 ---
 It seems everyone is jumping on the AJAX bandwagon. This bandwagon has covered many miles already, but people keep jumping on board. Hopefully we don't break an axle!
 

@@ -3,7 +3,7 @@ layout: post
 title: "Reconnecting"
 Slug: reconnecting
 date: 2011-02-09 12:59:21
-categories: [Direction,Entry,Five Things]
+tags: [Direction,Entry,Five Things]
 ---
 Today has been a time of reconnecting at many many levels.
 

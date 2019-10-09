@@ -3,7 +3,7 @@ layout: post
 title: "Hours to spare and nowhere to be"
 Slug: hours-to-spare-and-nowhere-to-be
 date: 2011-03-15 12:59:53
-categories: [Customer Service,Entry,Family,Gratitude,Lifestyle,Quiet Time]
+tags: [Customer Service,Entry,Family,Gratitude,Lifestyle,Quiet Time]
 ---
 Yesterday was a public holiday and tomorrow's Wednesday, so it was only logical to take today off as holiday and create a five day weekend. We woke up at some point, got up and probably started crocheting again. I say probably because I both don't remember and doubt we would have done anything else first!
 

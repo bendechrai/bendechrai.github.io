@@ -3,7 +3,7 @@ layout: post
 title: "Guilty until proven innocent"
 Slug: guilty-until-proven-innocent
 date: 2006-07-26 02:58:41
-categories: [Politics]
+tags: [Politics]
 ---
 Via [Digg](http://digg.com/offbeat_news/They_called_me_a_child_pornographer_Camping_photos_ruin_family_s_life): [They called me a child pornographer](http://www.salon.com/mwt/feature/2006/07/18/photos/index_np.html)
 

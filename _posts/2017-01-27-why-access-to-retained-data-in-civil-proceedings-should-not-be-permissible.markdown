@@ -3,7 +3,7 @@ layout: post
 title: "Why access to retained data in civil proceedings should not be permissible"
 Slug: why-access-to-retained-data-in-civil-proceedings-should-not-be-permissible
 date: 2017-01-27 00:33:51
-categories: [Data Retention,Politics,Privacy,Security]
+tags: [Data Retention,Politics,Privacy,Security]
 ---
 The Australian Attorney-General's department are seeking submissions on the consultation paper, "Access to Retained Data in Civil Proceedings". Here is my submission.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Quick - we need to backup the Internet!"
 Slug: quick-we-need-to-backup-the-internet
 date: 2006-06-29 00:42:36
-categories: [Hosting,Politics,Uncategorized]
+tags: [Hosting,Politics,Uncategorized]
 ---
 The US Dept of Homeland Security might be given the responsibility of ensuring the Internet doesn't break. Or something like that.
 

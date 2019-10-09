@@ -3,7 +3,7 @@ layout: post
 title: "Earth Day"
 Slug: earth-day
 date: 2011-04-22 11:01:05
-categories: [Consciousness,Consumerism,Energy,Entry,Family,Gratitude,Opportunity,Personal]
+tags: [Consciousness,Consumerism,Energy,Entry,Family,Gratitude,Opportunity,Personal]
 ---
 _Today is a two post day - this is post two._We found out this morning that it's Earth Day today because Google had a funky, interactive doodle on its homepage:
 

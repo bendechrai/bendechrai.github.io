@@ -3,7 +3,7 @@ layout: post
 title: "Fox News distort their own poll results"
 Slug: fox-news-distort-their-own-poll-results
 date: 2007-04-05 03:48:29
-categories: [Politics]
+tags: [Politics]
 ---
 According to [Crooks and Liars](http://www.crooksandliars.com/), a poll by Fox News shows [Britney Spears was voted the most foolish American](http://www.crooksandliars.com/2007/04/04/fox-news-they-distort-their-own-april-fools-poll/).
 

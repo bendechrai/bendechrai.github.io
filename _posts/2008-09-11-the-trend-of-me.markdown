@@ -3,7 +3,7 @@ layout: post
 title: "The trend of me"
 Slug: the-trend-of-me
 date: 2008-09-11 06:15:18
-categories: [Random,Work Life]
+tags: [Random,Work Life]
 ---
 I'm surprised I haven't blogged about this yet, but as some of you know, I have this "vanity folder" in my RSS reader. It's an idea I got from elsewhere quite some time ago, but essentially you search Google News, Google Blogs, Technorati, etc, for your name, domain name, company name and so forth. Each of these result sets are available as an RSS feed which you then add to your reader.
 

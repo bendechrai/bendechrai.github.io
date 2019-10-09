@@ -3,7 +3,7 @@ layout: post
 title: "Same-Sex Marriage - A People's Issue"
 Slug: same-sex-marriage-a-peoples-issue
 date: 2012-03-26 03:21:57
-categories: [Freedom,Legal,Personal,Politics]
+tags: [Freedom,Legal,Personal,Politics]
 ---
 I am grateful to live in a country where my voice can be heard. Please [ensure yours is too](http://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=spla/bill%20marriage/index.htm).
 

@@ -3,7 +3,7 @@ layout: post
 title: "WorkChoices: Tell Senator Barnaby Joyce what you think"
 Slug: workchoices-tell-senator-barnaby-joyce-what-you-think
 date: 2005-11-22 04:15:56
-categories: [Politics]
+tags: [Politics]
 ---
 I just received an email from the guys at [Your Rights At Work](http://www.rightsatwork.com.au/) informing me that Senator Barnaby Joyce will be making his decision on the WorkChoices bill on the 28th. He has the power to veto this bill, as a vote of no from him will see the bill destroyed.
 

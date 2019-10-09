@@ -3,7 +3,7 @@ layout: post
 title: "Mind Induced Fear"
 Slug: mind-induced-fear
 date: 2011-03-16 12:59:26
-categories: [Authenticity,Consciousness,Energy,Entry,Self Discovery]
+tags: [Authenticity,Consciousness,Energy,Entry,Self Discovery]
 ---
 Today started as another relaxing day. We started, as you can imagine, with crochet. 11am came and went. I made breakfast while Jo had a call with her sister and my mum caught up on her online social life and then we decided to go to the Mornington Main Street Market. It was almost 2pm by the time we got there and stalls were starting to pack up. There was one stall that drew all three of us in though. [A local woman who makes wands, smudge feathers and jewellery](http://www.facebook.com/pages/Enchanted-Shaman-Magical-Creations/161397957212767). Jo walked towards it almost in a trance, and within seconds the three of us were pouring our eyes over her beautiful wares.
 

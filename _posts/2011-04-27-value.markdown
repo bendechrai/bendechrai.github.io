@@ -3,7 +3,7 @@ layout: post
 title: "Value"
 Slug: value
 date: 2011-04-27 13:59:40
-categories: [Energy,Entry,Gratitude,Money,Personal,Perspective]
+tags: [Energy,Entry,Gratitude,Money,Personal,Perspective]
 ---
 We had the first items from our recent eBay garage sale collected today, two people came.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Update: Software Freedom Day"
 Slug: update-software-freedom-day
 date: 2006-09-18 06:48:00
-categories: [Open Source,Politics,Work Life]
+tags: [Open Source,Politics,Work Life]
 ---
 Well, I had a blast. [Ubermonkey](http://ubermonkey.wordpress.com/) joined me for a while, and I was even interviewed by the guys from [Community Media Services](http://home.vicnet.net.au/~cmsnet/) as part of their programme [31 Degrees](http://home.vicnet.net.au/~cmsnet/p_31_degrees.html). They said the footage will be available from their site at some point, and I look forward to seeing how much I was shaking and how red my face was. As most people do, I feel quite nervous about talking to crowds, but being recorded means the potential for embarrassment can last a life time :-)
 

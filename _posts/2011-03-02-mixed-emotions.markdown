@@ -3,7 +3,7 @@ layout: post
 title: "Mixed Emotions"
 Slug: mixed-emotions
 date: 2011-03-02 12:55:15
-categories: [Authenticity,Communication,Consciousness,Direction,Entry,Family,Five Things,Indii,Lifestyle,Love,Manifestation]
+tags: [Authenticity,Communication,Consciousness,Direction,Entry,Family,Five Things,Indii,Lifestyle,Love,Manifestation]
 ---
 What a strange day it's been today. I woke up knowing I had a pretty full calendar. I was being optmistic but knew I had stuff to do. A lot of Wednesdays recently have been less productive that I'd hoped.
 

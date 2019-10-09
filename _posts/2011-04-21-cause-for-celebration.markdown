@@ -3,7 +3,7 @@ layout: post
 title: "Cause for Celebration"
 Slug: cause-for-celebration
 date: 2011-04-21 13:49:45
-categories: [Entry,Friends,Fun,Gratitude,Musings,Personal,Work]
+tags: [Entry,Friends,Fun,Gratitude,Musings,Personal,Work]
 ---
 Most people who know me know that I will find any excuse for a celebration, whether it's a major life event or just the fact that it's a nice evening.
 

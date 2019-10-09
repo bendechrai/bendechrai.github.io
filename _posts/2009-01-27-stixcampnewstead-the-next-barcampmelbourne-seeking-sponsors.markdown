@@ -3,7 +3,7 @@ layout: post
 title: "StixCampNewstead - the next BarCampMelbourne - seeking sponsors"
 Slug: stixcampnewstead-the-next-barcampmelbourne-seeking-sponsors
 date: 2009-01-27 05:55:26
-categories: [Random]
+tags: [Random]
 ---
 So, I promised to write some more on StixCamp this morning. [StixCampNewstead](http://vic.au.stixcamp.org/) will be the first StixCamp ever. It will be held in the sticks and they will be Victorian sticks!
 

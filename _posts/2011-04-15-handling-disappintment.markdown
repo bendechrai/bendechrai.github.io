@@ -3,7 +3,7 @@ layout: post
 title: "Handling Disappintment"
 Slug: handling-disappintment
 date: 2011-04-15 10:18:34
-categories: [Energy,Entry,Family,Personal]
+tags: [Energy,Entry,Family,Personal]
 ---
 Today was ever so strange. I was booked in for surgery, so I took the day off with work. We arrived well before the consultation that was to take place before the operation, so we went to play in a nearby park. The three of us then got to the Medical Centre on time, and I went in to the consultation while Jo an Button waited outside.
 

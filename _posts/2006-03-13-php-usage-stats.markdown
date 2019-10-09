@@ -3,7 +3,7 @@ layout: post
 title: "PHP Usage Stats"
 Slug: php-usage-stats
 date: 2006-03-13 22:50:42
-categories: [Hosting,Open Source,Random,Uncategorized,Work Life]
+tags: [Hosting,Open Source,Random,Uncategorized,Work Life]
 ---
 I was challenged to justify my position this morning, that PHP is a popular programming language.
 

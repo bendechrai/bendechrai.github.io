@@ -3,7 +3,7 @@ layout: post
 title: "That's just unaustralian!"
 Slug: thats-just-unaustralian
 date: 2008-01-21 01:01:02
-categories: [Environment,Rant]
+tags: [Environment,Rant]
 ---
 There's this web site that asks people to add their 2 cents to the discussion on climate change. For reasons I won't go in to, I will not be mentioning this site by name, nor giving you a link to it, but I wanted to share a comment I found on it.
 

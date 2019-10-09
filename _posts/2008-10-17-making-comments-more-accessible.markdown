@@ -3,7 +3,7 @@ layout: post
 title: "Making comments more accessible"
 Slug: making-comments-more-accessible
 date: 2008-10-17 02:49:41
-categories: [Work Life]
+tags: [Work Life]
 ---
 I was just going through a list of sites that link here and stumbled back upon Russ Weakley's [Anatomy of a comment](http://www.maxdesign.com.au/2008/02/09/comment-anatomy/). Having wanted to try and tick all his boxes for a while, I think I've managed to make my comments section a little more accessible.
 

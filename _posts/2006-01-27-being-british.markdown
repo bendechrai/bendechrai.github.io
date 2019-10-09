@@ -3,7 +3,7 @@ layout: post
 title: "Being British"
 Slug: being-british
 date: 2006-01-27 00:43:25
-categories: [Random]
+tags: [Random]
 ---
 One of the British national daily newspapers is asking readers "what it means to be British?"
 

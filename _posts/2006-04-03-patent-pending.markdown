@@ -3,7 +3,7 @@ layout: post
 title: "Patent Pending"
 Slug: patent-pending
 date: 2006-04-03 07:42:30
-categories: [Patents]
+tags: [Patents]
 ---
 My sister sent me a link to [her on-line travel journal](http://realtravel.com/member-m1168534-Vix.html) today, which was a great read. The system is quite nice too, it's like a blog of sorts, and even plots your travels out on a map so visitors can see where you've been.
 

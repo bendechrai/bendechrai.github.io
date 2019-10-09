@@ -3,7 +3,7 @@ layout: post
 title: "The Power of Enjoyable Work"
 Slug: the-power-of-enjoyable-work
 date: 2011-03-11 11:37:19
-categories: [Entry,Fun,Gratitude,Work]
+tags: [Entry,Fun,Gratitude,Work]
 ---
 For a few weeks now, the projects allocated to me at work have been far from challenging or exciting. It's par for the course in my industry. Some work is crap, but it doesn't last long.
 

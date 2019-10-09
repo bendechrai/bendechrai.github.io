@@ -3,7 +3,7 @@ layout: post
 title: "Flexible Working Environment"
 Slug: flexible-working-environment
 date: 2011-02-28 12:59:31
-categories: [Entry,Friends,Fun,Opportunity,Work]
+tags: [Entry,Friends,Fun,Opportunity,Work]
 ---
 My employer keeps touting a flexible attitude to working environment. Some vocal, managerial members of the company have suggested the flexibility is earned. I think they mean I need to show my flexibility before the company will show its. Anyone who knows me knows this isn't okay with me. Both sides should show flexibility at all times, else it doesn't exist. Itos' not something an employee earns from an employer, nor something that should be expected. One cannot say "I won't be flexible until you are" without sounding contrite or self-entitled.
 

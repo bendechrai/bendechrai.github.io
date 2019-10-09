@@ -3,7 +3,7 @@ layout: post
 title: "Button: she rocks my world"
 Slug: button-she-rocks-my-world
 date: 2011-02-19 12:31:55
-categories: [Entry,Love]
+tags: [Entry,Love]
 ---
 I went shopping last night, and as I left, Button blew me a kiss. She even came to the car to give me a hug and get a smoocher from me. I love the dynamic between us. It's changing so quickly. I remarked to Jo today that her change is exponential at the moment. She's coming out of her shell with confidence and knows who she is and what she'll accept. She's adamant to the point of stubbornness at times. Reminds me of me as a child in some ways!
 

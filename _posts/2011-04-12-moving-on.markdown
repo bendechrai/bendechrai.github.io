@@ -3,7 +3,7 @@ layout: post
 title: "Moving On"
 Slug: moving-on
 date: 2011-04-12 13:59:25
-categories: [Direction,Energy,Entry,Gratitude,Indii,Life Changing Event,Manifestation,Money,On The Job,Opportunity,Personal,Work]
+tags: [Direction,Energy,Entry,Gratitude,Indii,Life Changing Event,Manifestation,Money,On The Job,Opportunity,Personal,Work]
 ---
 I've done my professional duty now and informed my employer before broadcasting this. I resigned today.
 

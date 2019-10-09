@@ -3,7 +3,7 @@ layout: post
 title: "Sleep Deprivation"
 Slug: sleep-deprivation
 date: 2011-02-08 12:59:39
-categories: [Entry,Indii,Sleep]
+tags: [Entry,Indii,Sleep]
 ---
 I went to work and found I had nothing booked. Yesterday, someone wanted me but I was busy, so I went to speak with them. They needed some time to prepare (what were they planing to tell me yesterday then, I wondered to myself), so I waited. I spent a whole load of time on R&D waiting. Learned some cool stuff playing with Drupal.
 

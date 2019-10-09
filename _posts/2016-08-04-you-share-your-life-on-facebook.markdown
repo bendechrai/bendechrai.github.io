@@ -3,7 +3,7 @@ layout: post
 title: "You share your life on Facebook..."
 Slug: you-share-your-life-on-facebook
 date: 2016-08-04 20:47:49
-categories: [Data Retention,Data Sovereignty,Opinion,Politics,Privacy,Security,Surveillance]
+tags: [Data Retention,Data Sovereignty,Opinion,Politics,Privacy,Security,Surveillance]
 ---
 ...and you’re worried about your Government?
 

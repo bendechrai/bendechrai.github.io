@@ -3,7 +3,7 @@ layout: post
 title: "Is Failure Attractive?"
 Slug: is-failure-attractive
 date: 2015-03-26 02:26:44
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 I was invited to present at the inaugural Australian PHP Conference, and offered to give a talk on writing a virus. What ensued was the most catastrophic sequence of events. Can you imagine how the audience reacted?
 

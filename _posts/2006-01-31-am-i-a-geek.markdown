@@ -3,7 +3,7 @@ layout: post
 title: "Am I a Geek?"
 Slug: am-i-a-geek
 date: 2006-01-31 03:06:58
-categories: [Random]
+tags: [Random]
 ---
 On of those silly quizzes told me [I'm definitely a geek](/2005/11/23/sad/), but my other half and a friend told me the other day I wasn't. So am I or not? It's a very serious issue!
 

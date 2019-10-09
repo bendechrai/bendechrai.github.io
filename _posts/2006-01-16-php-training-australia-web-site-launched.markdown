@@ -3,7 +3,7 @@ layout: post
 title: "PHP Training Australia web site launched"
 Slug: php-training-australia-web-site-launched
 date: 2006-01-16 03:59:21
-categories: [Work Life]
+tags: [Work Life]
 ---
 > PHP Training Australia launches its website, just minutes after launching its first clients site.
 

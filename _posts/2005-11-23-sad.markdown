@@ -3,7 +3,7 @@ layout: post
 title: "Sad"
 Slug: sad
 date: 2005-11-23 03:17:33
-categories: [Random]
+tags: [Random]
 ---
 [Trickie](http://www.trickie.org/blog/archives/93-Computer-Savviness-Inappropriate-Scripting.html) did it cos [Jon](http://jon.oxer.com.au/blog/id/71) did it, so I just had to join in! [![My computer geek score is greater than 100% of all people in the world! How do you compare? Click here to find out!](http://www.nerdtests.com/images/ft/cg.php?val=0848)](http://www.nerdtests.com/ft_cg.php?im)
 

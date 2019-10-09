@@ -3,7 +3,7 @@ layout: post
 title: "Impartial Observer: How I came to believe that Lily Allen is Not Big"
 Slug: impartial-observer-how-i-came-to-believe-that-lily-allen-is-not-big
 date: 2011-01-24 21:56:55
-categories: [Authenticity,Communication,Empathy,Entry,Self Discovery]
+tags: [Authenticity,Communication,Empathy,Entry,Self Discovery]
 ---
 I never used to listen to the words of songs - I just enjoyed the tunes and the sound of people's voices. In the past year, Jo has brought the words to my attention on many occasions, and now I tend to subconsciously pick up on lyrics rather than having to listen intently. It was about 6 months ago or so that I listened to the words of Lily Allen's "Not Big" and fell out of love with her. I love her voice, accent and tone. I love the songs.
 

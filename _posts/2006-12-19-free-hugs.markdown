@@ -3,7 +3,7 @@ layout: post
 title: "Free Hugs!"
 Slug: free-hugs
 date: 2006-12-19 21:13:59
-categories: [Fun,Random,Uncategorized]
+tags: [Fun,Random,Uncategorized]
 ---
 There I was, happily working away earlier last week, when I hit the keyboard combination that Stumbles. Stumbling, for those who haven't heard of it, is clicking on the Stumble! button (or hitting the keyboard combination, that I don't actually know, but just accidentally hit every now and then) which gets the Stumble plug-in to stumble across a site you've (hopefully) not seen before.
 

@@ -3,7 +3,7 @@ layout: post
 title: "West Wyalong"
 Slug: west-wyalong
 date: 2006-01-05 04:54:58
-categories: [Travel,Uncategorized]
+tags: [Travel,Uncategorized]
 ---
 We're well into our road trip now - for those of you who don't know, Sandrine and I have taken two weeks off (in addition to a week over Xmas at BogieBush) to ride to Bourke and write a web site for the Aboriginal Health Service for free. There's no link yet, as it's not live yet. I'll post again when it's all working.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Do you have uni assignments hosted anywhere?"
 Slug: do-you-have-uni-assignments-hosted-anywhere
 date: 2007-03-19 13:51:27
-categories: [Patents]
+tags: [Patents]
 ---
 I went to University and studied Software Engineering. I also did Computing at high school. I've also been programming in one way or another since the age of 8. I'm not unusual.
 

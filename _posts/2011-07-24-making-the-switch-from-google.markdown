@@ -3,7 +3,7 @@ layout: post
 title: "Making the Switch from Google"
 Slug: making-the-switch-from-google
 date: 2011-07-24 11:31:36
-categories: [Data Ownership,Legal,Open Source,Privacy,Privacy,Security]
+tags: [Data Ownership,Legal,Open Source,Privacy,Privacy,Security]
 ---
 I still remember moving "to" Google. They are awesome. You can put your whole life in there and it magically appears everywhere; on your phone, on your laptop, on other web sites. You can use their chat services, which follow open protocols, to chat to not only other Google users, but anyone with a jabber account. They'll store your photos, videos, and now even your daily status updates.
 

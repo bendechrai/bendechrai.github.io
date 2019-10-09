@@ -3,7 +3,7 @@ layout: post
 title: "BarCampMelbourne gets its first sponsor!"
 Slug: barcampmelbourne-gets-its-first-sponsor
 date: 2007-02-12 04:23:33
-categories: [BarCamp,Conference,Open Source]
+tags: [BarCamp,Conference,Open Source]
 ---
 I know I haven't written for a while, and I apologise (especially to my mother who is still waiting for news from our trip in Guatemala). I will get there!
 

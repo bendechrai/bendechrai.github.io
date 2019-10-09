@@ -3,7 +3,7 @@ layout: post
 title: "Alors, qu'est-ce que je peux faire Ã  MontrÃ©al?"
 Slug: alors-quest-ce-que-je-peux-faire-a-montreal
 date: 2006-11-02 13:58:03
-categories: [Fun,Open Source,Travel,Uncategorized,Work Life]
+tags: [Fun,Open Source,Travel,Uncategorized,Work Life]
 ---
 So, I'm going to be in Montréal, and I'm looking for tips. What should I do there? Where should I eat? Who should I meet?
 

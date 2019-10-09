@@ -3,7 +3,7 @@ layout: post
 title: "Why I don't want kids"
 Slug: why-i-dont-want-kids
 date: 2006-09-19 02:02:07
-categories: [Random]
+tags: [Random]
 ---
 I went to see a friend last night, whom I hadn't seen for quite some time. Now that S is overseas, I'm keeping myself extremely busy with my personal business (as opposed to my day-job, in which I'm still busy of course, but I digress).
 

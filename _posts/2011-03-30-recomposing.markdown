@@ -3,7 +3,7 @@ layout: post
 title: "Recomposing"
 Slug: recomposing
 date: 2011-03-30 09:16:37
-categories: [Energy,Entry,Five Things,Fun,Gratitude,Indii,Me Time]
+tags: [Energy,Entry,Five Things,Fun,Gratitude,Indii,Me Time]
 ---
 We woke up this morning in my bed.
 

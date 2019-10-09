@@ -3,7 +3,7 @@ layout: post
 title: "The Problem With \"Those Who Are Not For Us Are Against Us\""
 Slug: the-problem-with-those-who-are-not-for-us-are-against-us
 date: 2015-07-02 01:28:18
-categories: [Kindness,Opinion]
+tags: [Kindness,Opinion]
 ---
 > Those who are not for us are against us — New Testament, Mark 9:40
 

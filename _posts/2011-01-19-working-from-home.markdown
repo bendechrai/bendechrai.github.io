@@ -3,7 +3,7 @@ layout: post
 title: "Day 16: Working from home"
 Slug: working-from-home
 date: 2011-01-19 12:41:35
-categories: [Direction,Entry,Five Things,Money]
+tags: [Direction,Entry,Five Things,Money]
 ---
 There was something I was thinking of earlier today that I was particularly thankful for, and I should have written it down, because I've now forgotten. I did a couple loads of washing, fed the cat, started on my business web site, hung our the first load of washing, did some more on my business web site, hung out the second load of washing, carried on working on the web site, and at some point before 1pm when Jo got home, I was particularly thankful for something. Nope, failing to remember.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Day 21: How Do You Burlesque"
 Slug: how-do-you-burlesque
 date: 2011-01-24 11:20:39
-categories: [Authenticity,Communication,Direction,Energy,Entry,Family,Love,Manifestation,Self Discovery]
+tags: [Authenticity,Communication,Direction,Energy,Entry,Family,Love,Manifestation,Self Discovery]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/01/day21-movie-202x300.jpg "Burlesque Movie Poster")](https://bendechrai.com/wp-content/uploads/2011/01/day21-movie.jpg)Jo and I went to see Burlesque tonight. We were pretty excited any way, but we were in for a real treat. Not only did we get the musical "big stage" excitement, the drama of back-stage, fun and insightful glimpses in to the lives of the women, the men, and a story unsurprisingly drenched in sexuality, but we got a few additional surprises. Burlesque is the story of manifestation. It is the open, honest and authentic communication between people who love each other as family. They don't hide behind their ego or emotion. It's raw and real. It's not conversations around the water cooler, it's rampaging fights at the dinner table and unconditional motherly and sisterly love when you most need it.
 

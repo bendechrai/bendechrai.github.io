@@ -3,7 +3,7 @@ layout: post
 title: "Weekend Warriors"
 Slug: weekend-warriors
 date: 2005-12-20 03:27:43
-categories: [Bogie Bush,Environment]
+tags: [Bogie Bush,Environment]
 ---
 The magazines make it look glamorous. The mud is part of the fun. Roaring around the bush on a dirt bike is up there with the adrenaline pumping activities. Hell - I've done it - I know it's fun!
 

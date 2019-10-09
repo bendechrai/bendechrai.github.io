@@ -3,7 +3,7 @@ layout: post
 title: "Environment Profile WordPress Plugin"
 Slug: environment-profile-wordpress-plugin
 date: 2007-05-01 06:52:32
-categories: [Open Source,Work Life]
+tags: [Open Source,Work Life]
 ---
 I'm configuring WordPress to work with an external authentication system and need to automatically log in a user and create a new user in WordPress if none exists. The user's details are available to WordPress in environment variables.
 

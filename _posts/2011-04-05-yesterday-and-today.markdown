@@ -3,7 +3,7 @@ layout: post
 title: "Yesterday and Today"
 Slug: yesterday-and-today
 date: 2011-04-05 12:04:10
-categories: [Authenticity,Entry,Five Things,Fun,Gratitude,Indii,Life Changing Event,Manifestation,Money,Opportunity,Personal,Perspective,Work]
+tags: [Authenticity,Entry,Five Things,Fun,Gratitude,Indii,Life Changing Event,Manifestation,Money,Opportunity,Personal,Perspective,Work]
 ---
 Monday. Breakfast at 7.30am in Collingwood. Work from 9.00am. Lunch in town at midday. Pool with a friend at 6.30pm. Home with my woman at 9.00pm. Cup of tea and chocolate.
 

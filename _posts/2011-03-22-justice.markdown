@@ -3,7 +3,7 @@ layout: post
 title: "Justice"
 Slug: justice
 date: 2011-03-22 07:18:32
-categories: [Entry,Life Changing Event]
+tags: [Entry,Life Changing Event]
 ---
 [![](/wp-content/uploads/2011/03/IMG_20110322_093555-e1301062081881-300x149.jpg "Federal Magistrates Court")](https://bendechrai.com/wp-content/uploads/2011/03/IMG_20110322_093555-e1301062081881.jpg)I don't often have an active need for the justice system. I interact with it on occasion (speeding fines, business name registrations, etc), but today I felt part of it. 14 months ago I separated from my ex, and today was the hearing. I attended just to make sure any issues could be dealt with immediately rather than delay the process.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Wanna buy a shed?"
 Slug: wanna-buy-a-shed
 date: 2005-12-21 01:21:23
-categories: [Bogie Bush,Environment]
+tags: [Bogie Bush,Environment]
 ---
 We're probably going to be buying a shed. Wanna buy it off us?
 

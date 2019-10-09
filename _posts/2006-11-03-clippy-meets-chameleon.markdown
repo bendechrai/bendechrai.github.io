@@ -3,7 +3,7 @@ layout: post
 title: "Clippy meets Chameleon"
 Slug: clippy-meets-chameleon
 date: 2006-11-03 00:30:49
-categories: [Random]
+tags: [Random]
 ---
 I don't think Microsoft have a mascot, do they? Maybe Ballmer (or a chair).
 

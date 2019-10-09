@@ -3,7 +3,7 @@ layout: post
 title: "Human Brand Management"
 Slug: human-brand-management
 date: 2011-06-24 13:10:57
-categories: [BarCamp,Conference,Direction,Education,Extra Curricula,Fun,Indii,On The Job,Work,Work Life]
+tags: [BarCamp,Conference,Direction,Education,Extra Curricula,Fun,Indii,On The Job,Work,Work Life]
 ---
 I had a post in progress. I wrote it all up. It needed a bit of fleshing out in one area, but it was late. I decided to sleep on it.
 

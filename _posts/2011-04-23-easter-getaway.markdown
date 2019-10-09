@@ -3,7 +3,7 @@ layout: post
 title: "Easter Getaway"
 Slug: easter-getaway
 date: 2011-04-23 13:59:48
-categories: [Consciousness,Customer Service,Entry,Fun,Health,Holiday,Indii,Lifestyle,Personal]
+tags: [Consciousness,Customer Service,Entry,Fun,Health,Holiday,Indii,Lifestyle,Personal]
 ---
 I think this is the first time I've gone on a holiday without booking a flight or having a schedule. It was quite strange getting home from yoga, having breakfast, packing in our own time, and then walking to the train station; the same one I walk to every weekday morning!
 

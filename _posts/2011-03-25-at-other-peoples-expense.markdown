@@ -3,7 +3,7 @@ layout: post
 title: "At Other People's Expense"
 Slug: at-other-peoples-expense
 date: 2011-03-25 12:59:32
-categories: [Energy,Entry]
+tags: [Energy,Entry]
 ---
 I was heading home on the train today, the first leg consisting of two stops. I don't bother sitting down for this trip. At the first stop, the doors unlocked, and seeing a number of people wanting to board I open the door for them. The nearest person, a man in his late 30s or early 40s looks at me and beckons me to alight first while, noticing I'm not attempting to get off, simultaneously asking "Are you getting out?"
 

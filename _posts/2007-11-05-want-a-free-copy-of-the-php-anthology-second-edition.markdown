@@ -3,7 +3,7 @@ layout: post
 title: "Want a free copy of the PHP Anthology, Second Edition?"
 Slug: want-a-free-copy-of-the-php-anthology-second-edition
 date: 2007-11-05 06:58:28
-categories: [Extra Curricula]
+tags: [Extra Curricula]
 ---
 I promised some extra news in my last post about the PHP Anthology, Second Edition. Well, it's been out for about 5 days now, and I'd like to give you the opportunity to get your hands on a shiny new copy.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Last day in Hà Nội"
 Slug: last-day-in-hanoi
 date: 2013-02-03 05:46:20
-categories: [Food,Friends,Music,Travel]
+tags: [Food,Friends,Music,Travel]
 ---
 Technically the last 24 hours.
 

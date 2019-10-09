@@ -3,7 +3,7 @@ layout: post
 title: "How to hire a great software developer"
 Slug: how-to-hire-a-great-software-developer
 date: 2006-08-22 01:53:39
-categories: [Work Life]
+tags: [Work Life]
 ---
 [Rob Walling](http://www.softwarebyrob.com/default.aspx) writes about [Personality Traits of the Best Software Developers](http://www.softwarebyrob.com/articles/Personality_Traits_of_the_Best_Software_Developers.aspx). If you're hiring a developer, here are some questions you should ask (paraphrased from Rob's article): **_Are you an optimist or a pessimist?_** If they are pessimistic in the short term (the software's going to have lots of bugs) and optimistic in the long term (but the software will be perfect) then they're on your short list.
 

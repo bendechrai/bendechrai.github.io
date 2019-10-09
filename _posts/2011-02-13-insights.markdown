@@ -3,7 +3,7 @@ layout: post
 title: "Insights"
 Slug: insights
 date: 2011-02-13 09:37:48
-categories: [Communication,Entry,Family,Five Things,Friends,Fun,Indii]
+tags: [Communication,Entry,Family,Five Things,Friends,Fun,Indii]
 ---
 It was a young friend's 3rd birthday today, and of course also her mother's birthing anniversary.
 

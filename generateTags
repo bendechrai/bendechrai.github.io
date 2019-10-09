@@ -1,0 +1,20 @@
+#!/bin/bash
+
+rm -rf tags
+mkdir tags
+
+TAGS=`cat _posts/*markdown |grep -E '^tags:' | sed 's/^tags...//g' | sed 's/.$//g'|sed 's/,/\n/g' | sort | uniq`
+OIFS="$IFS"
+IFS=$'\n'
+
+for TAG in $TAGS
+do
+  SLUG=`echo $TAG | tr A-Z a-z | sed 's/ /-/g'`
+  mkdir tags/$SLUG
+  echo '---' > tags/$SLUG/index.md
+  echo 'layout: tagpage' >> tags/$SLUG/index.md
+  echo 'tag: '$TAG >> tags/$SLUG/index.md
+  echo '---' >> tags/$SLUG/index.md
+done
+
+IFS="$OIFS"

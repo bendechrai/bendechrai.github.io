@@ -3,7 +3,7 @@ layout: post
 title: "Save energy while searching the web..."
 Slug: save-energy-while-searching-the-web
 date: 2007-10-15 04:33:17
-categories: [Environment]
+tags: [Environment]
 ---
 ![Search](https://bendechrai.com/wp-content/uploads/2007/10/search.jpg "Search")There's this thing happening today - it's called the [Blog Action Day](http://blogactionday.org/), in which bloggers around the world are being asked to post something about the environment. It's a cute idea, and I've been meaning to mention [Blackle](http://blackle.com/) for a while now. Lots (and lots) of people have [Google](http://google.com/) as their browser's default home page. Google's pages are on a white background. White is the least energy efficient color to display (all colours on) for CRT (the big deep monitors, not the more recent flat ones).
 

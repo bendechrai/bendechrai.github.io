@@ -3,7 +3,7 @@ layout: post
 title: "UK brings in laws to force supply of encryption keys or unencrypted data"
 Slug: uk-brings-in-laws-to-force-supply-of-encryption-keys-or-unencrypted-data
 date: 2007-10-03 00:01:30
-categories: [Politics,Privacy]
+tags: [Politics,Privacy]
 ---
 In another step towards total government control of its people, the UK is planning to enforce Part 3, Section 49 of the Regulation of Investigatory Powers Act, which will authorise authorities to obtain encryption keys or any encrypted data in unencrypted form in relation to any anti-terrorism investigations.
 

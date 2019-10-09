@@ -3,7 +3,7 @@ layout: post
 title: "Day 1: An old path rediscovered"
 Slug: an-old-path-rediscovered
 date: 2011-01-04 12:14:55
-categories: [Direction,Empathy,Entry,Life Changing Event,Self Discovery,Support]
+tags: [Direction,Empathy,Entry,Life Changing Event,Self Discovery,Support]
 ---
 ![](https://bendechrai.com/wp-content/uploads/2011/01/day1-300x138.jpg "Jo")I had an interesting rediscovery yesterday. I had lost my path. Right royally. Someone gave me a sharp kick up the backside and today I'm more on track than I felt for a while. A year ago I decided my life wasn't going where I wanted it to go, and I had to make some radical changes in order to discover who I was again. Where I wanted my life to go. I had lost myself and my identity. I have been described as being a ghost of my former self. Some people who have known me for years don't recognise the person I am today or was 6 months ago. Some people don't see any difference at all. I, for all intents and purposes, had two lives. I had to kill one of my selves. This is much easier said than done.
 

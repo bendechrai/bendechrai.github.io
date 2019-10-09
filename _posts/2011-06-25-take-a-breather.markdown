@@ -3,7 +3,7 @@ layout: post
 title: "Take a Breather"
 Slug: take-a-breather
 date: 2011-06-25 13:31:21
-categories: [Fun,Indii,Musings]
+tags: [Fun,Indii,Musings]
 ---
 Jo's been working really hard on her business. I've been spending most waking moments not spent at work, on the laptop working on the technical side of her business, and while we've spent a lot of time in each other's presence, we've still missed each other.
 

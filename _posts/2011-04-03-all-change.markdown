@@ -3,7 +3,7 @@ layout: post
 title: "All Change"
 Slug: all-change
 date: 2011-04-03 12:54:40
-categories: [Craft,Energy,Entry,Five Things,Musings]
+tags: [Craft,Energy,Entry,Five Things,Musings]
 ---
 My life has been taken over by a crochet hook. I sit down for a second and realise a few moments later tat I have a jellyfish in my hand.
 

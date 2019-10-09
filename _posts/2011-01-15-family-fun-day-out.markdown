@@ -3,7 +3,7 @@ layout: post
 title: "Day 13: Family Fun Day Out"
 Slug: family-fun-day-out
 date: 2011-01-15 13:05:59
-categories: [Entry,Family,Lifestyle]
+tags: [Entry,Family,Lifestyle]
 ---
 [![](https://bendechrai.com/wp-content/uploads/2011/01/Screen-shot-2011-01-16-at-11.15.02-PM-150x150.png "Day 13: Queuing for Brickvention")](https://bendechrai.com/wp-content/uploads/2011/01/Screen-shot-2011-01-16-at-11.15.02-PM.png)We had grand plans to go to the Frankston Festival today, but Jo heard about the Lego "Brickvention" Convention at Town Hall in Melbourne, so we went there instead. It was packed, and we queued for almost 2 hours to get in. During the slow march towards the main entrance, I spotted an IP address on a sticker on a lamp post which links to a [WikiLeaks mirror](http://213.251.145.96/). Curious... [![](https://bendechrai.com/wp-content/uploads/2011/01/day13-titanic-150x150.jpg "Day 13: Titanic")](https://bendechrai.com/wp-content/uploads/2011/01/day13-titanic.jpg)[![](https://bendechrai.com/wp-content/uploads/2011/01/day13-loveboat-150x150.jpg "Day 13: Love Boat")](https://bendechrai.com/wp-content/uploads/2011/01/day13-loveboat.jpg)Once inside though, we were treated with all sorts of awesome Lego work, from lots of kit builds to awesome home-made projects. My favourite had to be the Love Boat, which was made up of 250,000 pieces of mostly regular Lego bricks (unlike some of the large kits that have custom parts) and included 6 references to boat movies including Titanic (two Lego people at the bow). There were lots of train sets and StarWars types around too. Quite awesome to see Lego geeks in their element and the passion exuding from the builders/creators of these exquisite pieces of work.
 

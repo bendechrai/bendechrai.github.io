@@ -3,7 +3,7 @@ layout: post
 title: "The Pervasiveness of Unquestioned Data Sharing"
 Slug: the-pervasiveness-of-unquestioned-data-sharing
 date: 2012-10-08 02:00:46
-categories: [Data Sovereignty,Personal,Privacy]
+tags: [Data Sovereignty,Personal,Privacy]
 ---
 In Australia, pets are micro-chipped, meaning a small chip, the size of a grain of rice, is placed just under their skin. If the pet is found, it can be scanned and looked up in a national database and the owners can be identified and contacted. This organisation has strict privacy laws and, I would hope, computer security policies that enforce, log and audit access to this information.
 

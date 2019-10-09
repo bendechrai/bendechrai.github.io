@@ -3,7 +3,7 @@ layout: post
 title: "Back in to the Fray, my Friends"
 Slug: back-in-to-the-fray-my-friends
 date: 2012-05-15 11:14:00
-categories: [BarCamp,Community,Conference]
+tags: [BarCamp,Community,Conference]
 ---
 Since the start of 2010, I've not been all too active in the Melbourne technical community, taking some time to work on me instead, but something got the better of me a few months ago. I was feeling the urge to be a part of the community again, to rekindle friendships and be a part of the awesome environment of knowledge sharing again.
 

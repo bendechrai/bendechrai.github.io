@@ -3,7 +3,7 @@ layout: post
 title: "The Nothing to Hide argument"
 Slug: the-nothing-to-hide-argument
 date: 2013-01-16 21:09:41
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 Add in naked example. Some people comfy with being seen naked. If it was made law that everyone should be naked, if the majority were in favour, they'd be destroying the right for those who want to cover up to do so.
 

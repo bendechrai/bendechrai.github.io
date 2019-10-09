@@ -3,7 +3,7 @@ layout: post
 title: "BarCampMelbourne"
 Slug: barcampmelbourne
 date: 2006-09-04 12:46:33
-categories: [BarCamp,Conference,Open Source]
+tags: [BarCamp,Conference,Open Source]
 ---
 ![BarCampMelbourne](https://bendechrai.com/wp-content/uploads/2006/09/barcamp_melbourne_400_100.png)> <span class="WikiLink">BarCamp</span> is an ad-hoc un-conference born from the desire for people to share and learn in an open environment. It is an intense event with discussions, demos and interaction from attendees.
 

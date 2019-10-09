@@ -3,7 +3,7 @@ layout: post
 title: "Alice's Story"
 Slug: alices-story
 date: 2011-09-15 12:14:20
-categories: [Finance]
+tags: [Finance]
 ---
 Most people experience some level of hardship from time to time, and for some, it becomes so debilitating that they feel beyond help. This is often compounded by the embarrassment that comes with admitting that you have a problem to someone else, but that's a whole other article!
 

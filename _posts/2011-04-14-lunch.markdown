@@ -3,7 +3,7 @@ layout: post
 title: "Lunch"
 Slug: lunch
 date: 2011-04-14 12:56:16
-categories: [Entry,Food,Fun,Gratitude,On The Job,Work]
+tags: [Entry,Food,Fun,Gratitude,On The Job,Work]
 ---
 Despite the server changes that I wasn't aware of, documentation had become duplicated, files I couldn't access, and networking issued that stopped me sending changes from my development environment to the staging server, I had the best day at work in a long while today.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Privacy Law Goes Too Far - My Counter Offer"
 Slug: privacy-law-goes-too-far-my-counter-offer
 date: 2006-04-04 23:06:28
-categories: [Open Source,Politics,Work Life]
+tags: [Open Source,Politics,Work Life]
 ---
 The Sydney Morning Herald reported three days ago on [a new law that will allow the interception of anyone's email](http://www.smh.com.au/news/opinion/more-than-ever-watch-what-you-say/2006/04/02/1143916406540.html) if they have been in contact with a current suspect. This person, referred to as the B-party (the prime suspect is the A-party, I imagine) will not only have email to the A-party intercepted, but all email.
 

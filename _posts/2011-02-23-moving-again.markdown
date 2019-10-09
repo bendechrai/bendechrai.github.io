@@ -3,7 +3,7 @@ layout: post
 title: "Moving Again?"
 Slug: moving-again
 date: 2011-02-23 12:59:34
-categories: [Entry]
+tags: [Entry]
 ---
 [![](/wp-content/uploads/2011/02/20110128131128-300x225.jpg "Dam")](https://bendechrai.com/wp-content/uploads/2011/02/20110128131128.jpg)Well, not quite yet, but we went off to have a look at land. We saw a beautiful, fantastic, perfect, awesome property that we could afford, suited our lifestyle, had space to build, the dam, the wallabies, the sheep! Well, the sheep will leave on sale of the property. The only problem with this property is its proximity to a train line. The nearest station is a 30 minute drive away, and with button commuting between her father's and our place, this adds an extra hour each week. So while we both pine for this property and it's perfect awesomeness (we have dismissed relocating the land and installing our own train line as unsuitable options), we've decided to narrow our search field down for future visits.
 

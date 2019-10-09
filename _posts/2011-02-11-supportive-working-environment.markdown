@@ -3,7 +3,7 @@ layout: post
 title: "Supportive Working Environment"
 Slug: supportive-working-environment
 date: 2011-02-11 11:43:57
-categories: [Communication,Entry,Lifestyle,Support]
+tags: [Communication,Entry,Lifestyle,Support]
 ---
 I had my performance review today, and it went really well. I'm a senior developer at the place I work and I had rated myself around the "meets expectations" to "exceeds expectations." Actually, me being me, I made up my own definition of my capabilities for each. Naturally. I didn't rate myself at higher then exceeds expectation because, how can you exceed expectation when you're supposed to be one of the best in the company? I did for one actually - my breadth and depth of knowledge and work I do outside my job role. While I'm a software developer, I also help with systems administration, front-end design, requirements analysis and occasionally even open up Photoshop!
 

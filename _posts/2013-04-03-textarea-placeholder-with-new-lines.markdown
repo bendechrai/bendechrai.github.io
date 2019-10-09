@@ -3,7 +3,7 @@ layout: post
 title: "Textarea Placeholder with New Lines"
 Slug: textarea-placeholder-with-new-lines
 date: 2013-04-03 03:40:11
-categories: [Javascript,jQuery,Open Source,Software Development]
+tags: [Javascript,jQuery,Open Source,Software Development]
 ---
 It's been a while since I've posted something development related, and as I was just working on a problem that has a relatively easy solution and can apply to so many web sites, I thought I'd share it.
 

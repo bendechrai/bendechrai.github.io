@@ -3,7 +3,7 @@ layout: post
 title: "Would you like some FUD with that?"
 Slug: would-you-like-some-fud-with-that
 date: 2006-09-26 00:59:42
-categories: [Copyright,Politics,Security,Uncategorized]
+tags: [Copyright,Politics,Security,Uncategorized]
 ---
 Politicians do it; CEOs do it; Even educated MPAA officials do it; Let's do it; Let's spread the <abbr title="Fear, Uncertainty and Doubt">FUD</abbr>!
 

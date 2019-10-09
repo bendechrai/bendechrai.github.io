@@ -3,7 +3,7 @@ layout: post
 title: "To Let or For Sale"
 Slug: to-let-or-for-sale
 date: 2011-03-03 12:59:15
-categories: [Education,Entry,Five Things,Money,Property]
+tags: [Education,Entry,Five Things,Money,Property]
 ---
 [We bought a House](/2011/02/27/offer-accepted/)! Okay, so you know that already. But we need finance, so off to the bank we email. We have a guy, he's a lending specialist, and he's ace. I called him last week to make sure he wasn't going to be on holidays, because that would be totally inconsiderate.
 

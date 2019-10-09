@@ -3,7 +3,7 @@ layout: post
 title: "Wind Down"
 Slug: wind-down
 date: 2011-05-04 10:56:29
-categories: [Entry,Life Changing Event,Personal,Work]
+tags: [Entry,Life Changing Event,Personal,Work]
 ---
 Jo asked me today if it was weird to think I only had 2 more days of work at Sputnik and the thought of moving on has been strange. Not so much the leaving Sputnik thing - as it could well be me going on holiday. Work's been pretty quiet recently too, so the fact I'm being allocated less work hasn't been so noticeable.
 

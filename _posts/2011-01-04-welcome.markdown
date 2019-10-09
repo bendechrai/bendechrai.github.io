@@ -3,7 +3,7 @@ layout: post
 title: "Welcome"
 Slug: welcome
 date: 2011-01-04 10:03:14
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 I decided to start a gratitude blog today. I spent my lunch time looking at people's posts on vision boards and gratitude diaries came up. I've been seeing a lot of them recently. Jo's had one for over a month. Another friend's almost done a whole year of hers. Something just leapt out at me today and told me to follow suit.
 

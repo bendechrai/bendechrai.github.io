@@ -3,7 +3,7 @@ layout: post
 title: " Running OS Commerce on PHP5"
 Slug: running-os-commerce-on-php5
 date: 2005-10-18 01:32:27
-categories: [Open Source,Work Life]
+tags: [Open Source,Work Life]
 ---
 Day two at the new job. My first tasks involve making some customisations to an OS Commerce installation and, as ever, I hate to work on live servers. I just spent an hour or so downloading the live application, but of course I've installed [Dexter's PHP5.1](http://people.debian.org/%7Edexter/dists/php5.1/) with MySQL4.1 and Apache2. OS Commerce is written for PHP4.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Quiet Time"
 Slug: quiet-time
 date: 2011-03-12 12:59:54
-categories: [Communication,Consciousness,Energy,Entry,Gratitude,Me Time,Quiet Time,Self Discovery]
+tags: [Communication,Consciousness,Energy,Entry,Gratitude,Me Time,Quiet Time,Self Discovery]
 ---
 I've been struggling to find a gratitude for today, or even an anecdote to share, or something awesome that happened for this day. Not that they haven't happened! We woke up early and went to the beach, back home by lunchtime, off to do some shopping (even the cat was starting to go without healthy food!), back home, awesome home-cooked pork salad, restful evening. I \*know\* something brilliant happened, but I just didn't hear it.
 

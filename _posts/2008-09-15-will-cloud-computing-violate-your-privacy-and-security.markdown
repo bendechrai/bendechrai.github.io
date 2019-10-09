@@ -3,7 +3,7 @@ layout: post
 title: "Will Cloud Computing Violate your Privacy and Security?"
 Slug: will-cloud-computing-violate-your-privacy-and-security
 date: 2008-09-15 03:26:12
-categories: [Hosting,Privacy,Security,Uncategorized,Work Life]
+tags: [Hosting,Privacy,Security,Uncategorized,Work Life]
 ---
 According to yesterday morning's ABC Radio National show, cloud computing will pose a danger to your on-line privacy and security with people able to read your email, see what web sites you've visited and reconcile your on-line activities, banking details and buying habits. We're also going to hear a lot about cloud computing in the coming months because Google have just released their latest product, Chrome.
 

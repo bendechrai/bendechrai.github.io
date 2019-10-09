@@ -3,7 +3,7 @@ layout: post
 title: "Amnesty International Advertising Campaign"
 Slug: amnesty-international-advertising-campaign
 date: 2006-06-19 04:19:53
-categories: [Random]
+tags: [Random]
 ---
 I love this campaign. I've seen similar photos blending in to the background, but used in this context, it's absolutely brilliant!
 

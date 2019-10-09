@@ -3,7 +3,7 @@ layout: post
 title: "PHP Beer"
 Slug: php-beer
 date: 2006-12-19 20:51:56
-categories: [Fun,Open Source,Overseas,Travel,Uncategorized]
+tags: [Fun,Open Source,Overseas,Travel,Uncategorized]
 ---
 So, [I was told about](https://bendechrai.com/2006/11/03/alors-quest-ce-que-je-peux-faire-a-montreal/#comment-1) this thing called [PHP Beer](http://phpbeer.com/) some time ago, and met up with about 12 people, most of whose names I've forgotten. At the risk of insulting those whose names I cannot remember (I'd like to blame the alcohol for that), I'd like to thank [Yann](http://www.ylarrivee.com/), [Marc](http://www.marclaporte.com/), [Louis Philippe](http://www.drone-alliance.org/), [Nelson](http://citadelrock.com/) and everyone else for making me feel welcomed. I thoroughly enjoyed myself, met a few new people and exchanged a few ideas that grew into good ones!
 

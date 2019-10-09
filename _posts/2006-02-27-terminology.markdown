@@ -3,7 +3,7 @@ layout: post
 title: "Terminology"
 Slug: terminology
 date: 2006-02-27 01:10:41
-categories: [Random]
+tags: [Random]
 ---
 ### Scenario One
 

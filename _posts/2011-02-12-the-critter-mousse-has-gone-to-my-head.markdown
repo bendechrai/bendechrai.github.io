@@ -3,7 +3,7 @@ layout: post
 title: "The Critter Mousse has Gone to my Head"
 Slug: the-critter-mousse-has-gone-to-my-head
 date: 2011-02-12 10:35:22
-categories: [Consciousness,Energy,Entry,Indii]
+tags: [Consciousness,Energy,Entry,Indii]
 ---
 As you'll start to realise, we have an incessant critter problem in our home. Lice. They love my hair, but I've never had them (bar once) until I started living in the same house as Button. She seems to bring them home from kindergarten and between us we manage to keep the species going. Jo is mostly immune, although does catch a handful roaming in her head every now and then.
 

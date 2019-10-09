@@ -3,7 +3,7 @@ layout: post
 title: "Day 15: Energy - I has it again!"
 Slug: energy-i-has-it-again
 date: 2011-01-18 09:59:53
-categories: [Energy,Entry,Food Intolerance,Health,Raw Food]
+tags: [Energy,Entry,Food Intolerance,Health,Raw Food]
 ---
 Okay, so we've not been doing a 100% raw diet, and last night we ate some of the food that would otherwise be thrown out if we didn't, so we had BBQd veggies and steak, and promptly worked off the carbs through exercise.
 

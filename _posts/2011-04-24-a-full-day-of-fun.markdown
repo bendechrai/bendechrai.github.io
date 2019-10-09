@@ -3,7 +3,7 @@ layout: post
 title: "A Full Day of Fun"
 Slug: a-full-day-of-fun
 date: 2011-04-24 13:59:16
-categories: [Authenticity,Consciousness,Energy,Entry,Fun,Lifestyle,Love,Personal,Self Discovery]
+tags: [Authenticity,Consciousness,Energy,Entry,Fun,Lifestyle,Love,Personal,Self Discovery]
 ---
 I realised this afternoon that we don't have any time spare today. Not that that's bad.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Working in IT"
 Slug: working-in-it
 date: 2011-02-21 12:59:13
-categories: [Communication,Entry,Gratitude,Lifestyle]
+tags: [Communication,Entry,Gratitude,Lifestyle]
 ---
 Jo suspects she might have rubella, so I'm not going to the office today. Notwithstanding the general population at work, there's one colleague who's nearing the end of her first trimester. I've asked for the company view on whether I should return while there's a chance that I'm infectious.
 

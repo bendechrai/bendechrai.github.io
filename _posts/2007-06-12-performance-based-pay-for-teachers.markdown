@@ -3,7 +3,7 @@ layout: post
 title: "Performance-based pay for teachers"
 Slug: performance-based-pay-for-teachers
 date: 2007-06-12 01:17:57
-categories: [Education,Politics,Uncategorized]
+tags: [Education,Politics,Uncategorized]
 ---
 With the raging success of performance-based pay for teachers in America, Australia's Federal Education Minister, Julie Bishop, today announced that a trial for the same will start in 2009.
 

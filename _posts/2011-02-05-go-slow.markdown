@@ -3,7 +3,7 @@ layout: post
 title: "Go Slow"
 Slug: go-slow
 date: 2011-02-05 10:22:01
-categories: [Entry,Family,Quiet Time]
+tags: [Entry,Family,Quiet Time]
 ---
 Today we had a go slow. The whole family needed some rest and recuperation, except Button who has energy aplenty and can't stop for a minute.
 

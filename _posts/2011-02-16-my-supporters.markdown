@@ -3,7 +3,7 @@ layout: post
 title: "My Supporters"
 Slug: my-supporters
 date: 2011-02-16 09:43:33
-categories: [Communication,Entry,Five Things,Friends,Gratitude,Indii]
+tags: [Communication,Entry,Five Things,Friends,Gratitude,Indii]
 ---
 I made contact with two people today who I am going to pay to make my life easier.
 

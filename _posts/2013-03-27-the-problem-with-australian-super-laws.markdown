@@ -3,7 +3,7 @@ layout: post
 title: "The Problem with Australian Super Laws"
 Slug: the-problem-with-australian-super-laws
 date: 2013-03-27 03:26:36
-categories: [Finance,Money,Politics,Tax]
+tags: [Finance,Money,Politics,Tax]
 ---
 I have just read a petition by GetUp! regarding unfair superannuation laws in Australia. Usually, I have no issues with GetUp! petitions and sign many of them; their vision and mine tend to overlap a lot.
 

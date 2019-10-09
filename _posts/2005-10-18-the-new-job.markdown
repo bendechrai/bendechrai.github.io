@@ -3,7 +3,7 @@ layout: post
 title: " The new job"
 Slug: the-new-job
 date: 2005-10-18 00:56:26
-categories: [Work Life]
+tags: [Work Life]
 ---
 My new job started yesterday and I had one helluva time getting the new IBM ThinkCentre to run Ubuntu. Well - getting it installed was easy, and as usual took less time than configuring Windows on my other machine, which was already pre-installed.
 

@@ -13,8 +13,8 @@ layout: default
     </p>
     <p>
       <ul>
-      {% for category in page.categories %}
-        <li><a href="/categories/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a></li>
+      {% for tag in page.tags %}
+        <li><a href="/tags/{{ tag | downcase | replace: ' ', '-' }}">{{ tag }}</a></li>
       {% endfor %}
       </ul>
     </p>

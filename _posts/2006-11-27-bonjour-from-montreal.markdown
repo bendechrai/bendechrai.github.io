@@ -3,7 +3,7 @@ layout: post
 title: "Bonjour from Montreal!"
 Slug: bonjour-from-montreal
 date: 2006-11-27 22:31:07
-categories: [Holiday,Overseas,Travel,Uncategorized]
+tags: [Holiday,Overseas,Travel,Uncategorized]
 ---
 Alors, on était arrivée hier soir, c'est mon premier jour a Montréal aujourd'hui, et j'arrive par metro a McGill as 9:30. C'est aussi l'anniversaire de ma soeur - bonne anniversaire!
 

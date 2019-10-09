@@ -3,7 +3,7 @@ layout: post
 title: "Dubbo Zoo"
 Slug: dubbo-zoo
 date: 2006-01-05 05:07:34
-categories: [Travel,Uncategorized]
+tags: [Travel,Uncategorized]
 ---
 We stayed in Dubbo from the 30th of Dec until the 1st of January. New Year in this town was interesting. No fireworks (fire danger), no streets of crows with big screen displays and a major celebrity counting down to midnight, just people going to pubs, big scary bouncers giving out (and wearing) paper tiaras and blowing those funny horn things with the paper that unrolls and gets soaked in your beer.
 

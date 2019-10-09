@@ -3,7 +3,7 @@ layout: post
 title: "Is Sharing the Next Form of Currency?"
 Slug: is-sharing-the-next-form-of-currency
 date: 2012-02-22 10:07:49
-categories: [Copyright,Legal,Legal,Sharing]
+tags: [Copyright,Legal,Legal,Sharing]
 ---
 I was just reading a Technorati article entitled "[Pinterest Users Need to Read the Fine Print](http://technorati.com/social-media/article/pinterest-users-need-to-read-the/)". It discusses the issue of Pinterest users agreeing to granting Pinterest the rights to use everything they pin on their board for free, forever. Not such a huge deal, except, if it's not your content, you're not legally authorised to grant Pinterest that right.
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Counterproductive Counter Offer"
 Slug: the-counterproductive-counter-offer
 date: 2011-08-31 10:03:45
-categories: [On The Job]
+tags: [On The Job]
 ---
 ## The Situation
 

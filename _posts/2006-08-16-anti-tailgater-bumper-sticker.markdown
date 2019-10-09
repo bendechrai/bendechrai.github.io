@@ -3,7 +3,7 @@ layout: post
 title: "Anti-tailgater bumper sticker"
 Slug: anti-tailgater-bumper-sticker
 date: 2006-08-16 03:57:35
-categories: [Random]
+tags: [Random]
 ---
 As some of you may know, [I hate tailgaters](/2006/02/27/terminology/)!
 

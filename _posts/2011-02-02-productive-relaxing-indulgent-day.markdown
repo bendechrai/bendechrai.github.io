@@ -3,7 +3,7 @@ layout: post
 title: "Productive, Relaxing, Indulgent Day"
 Slug: productive-relaxing-indulgent-day
 date: 2011-02-02 10:59:34
-categories: [Entry,Five Things]
+tags: [Entry,Five Things]
 ---
 [![](/wp-content/uploads/2011/02/02-02-2011-housewarming-150x150.jpg "02-02-2011-housewarming")](https://bendechrai.com/wp-content/uploads/2011/02/02-02-2011-housewarming.jpg)A friend of Jo's came round for morning tea today, and brought us a bottle and card that had been waiting to wing its way to us for quite some time now. It was awesome to meet her and her little boy. We had coffees, chatted, watched her boy try to eat marbles - you know, the usual. Jo then went to catch up with her women folk and go to Kinder to play with her Button while I stayed home. I worked on her web site a little, nothing more on mine in a while, and then did some more finance handover and documentation for the Open Source Developers' Club, which I resigned from a few weeks ago. It was quite a cathartic exercise to do some OSDC stuff. I read at the bookshop in a book on finding happiness, that one way is to take a step to remove something from your life that you don't want any more. I still have obligations to OSDC at present, but the numbers and levels are diminishing, and it feels great.
 

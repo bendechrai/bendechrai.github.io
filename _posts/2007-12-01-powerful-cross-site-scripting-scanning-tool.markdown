@@ -3,7 +3,7 @@ layout: post
 title: "Powerful Cross Site Scripting Scanning Tool"
 Slug: powerful-cross-site-scripting-scanning-tool
 date: 2007-12-01 00:37:36
-categories: [Conference,Open Source,Security]
+tags: [Conference,Open Source,Security]
 ---
 ![scanEE](https://bendechrai.com/wp-content/uploads/2007/12/scanee-copy.png "scanEE")Web developers today are increasingly aware of the number of ways that attackers can abuse their site. Not only do we have to worry about someone stealing data directly through our site or from our database, cross site scripting (XSS) attacks provide a mechanism for someone to run arbitrary code on another web site. During his [OSDC](http://osdc.com.au/ "Open Source Developers' Conference web site") 2007 keynote, [Rasmus Lerdorf](http://lerdorf.com/ "Rasmus's web site") mentioned the scanmus, a cross site scripting scanning tool he'd written. It looks at a page's source code and identifies potential entry points. In the case where it finds a form, it will submit data in a way to detect a number of XSS vulnerabilities, and report those to the user. Unfortunately, while he plans to make this available to the community, this won't happen just yet.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Mad Max 4?"
 Slug: mad-max-4
 date: 2005-10-06 01:42:21
-categories: [Random]
+tags: [Random]
 ---
 It seems fitting, and yet ironic, that in the country that Mad Max was filmed in - the same country that has petrol prices roughly 40% of that in Europe - that the night before last, we had all our petrol stolen!
 

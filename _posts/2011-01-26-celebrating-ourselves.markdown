@@ -3,7 +3,7 @@ layout: post
 title: "Celebrating Ourselves"
 Slug: celebrating-ourselves
 date: 2011-01-26 12:41:54
-categories: [Entry,Indii,Quiet Time]
+tags: [Entry,Indii,Quiet Time]
 ---
 [![](/wp-content/uploads/2011/01/movies-201x300.jpg "Movies")](https://bendechrai.com/wp-content/uploads/2011/01/movies.jpg)Today has been all about down time. Jo and me time. Nothing to do, no deadlines, no demands. We got up at 11.30am and made breakfast, buckwheat and banana pancakes with mixed beans and tomatoes, pink bubbly and a coffee. Once breakfast was over we rolled round on the floor trying to digest the heavy foods that our stomachs weren't quite used to until we had the energy to get up and sit on the sofa to watch movies. We watched [Elergy](http://www.imdb.com/title/tt0974554/) first, a beautiful film about love and lust, sexual possessiveness, insecurity and honesty.
 

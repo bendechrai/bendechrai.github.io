@@ -3,7 +3,7 @@ layout: post
 title: "OSGERMS renders a page"
 Slug: osgerms-renders-a-page
 date: 2006-01-19 07:29:21
-categories: [Open Source]
+tags: [Open Source]
 ---
 I'm very excited today. I just got OSGERMS to a point where a default install renders a page! Woohoo.
 

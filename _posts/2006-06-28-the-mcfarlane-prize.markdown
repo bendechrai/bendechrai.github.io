@@ -3,7 +3,7 @@ layout: post
 title: "The McFarlane Prize"
 Slug: the-mcfarlane-prize
 date: 2006-06-28 01:39:48
-categories: [Open Source,Random,Work Life]
+tags: [Open Source,Random,Work Life]
 ---
 > Named in memory of noted Australian web pioneer Nigel McFarlane, the inaugural McFarlane Prize, aims to recognize and encourage excellence in web design by Australian web developers.
 

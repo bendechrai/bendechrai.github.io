@@ -3,7 +3,7 @@ layout: post
 title: "File sharing"
 Slug: file-sharing
 date: 2007-03-15 01:28:49
-categories: [Copyright,Patents,Politics,Security,Uncategorized]
+tags: [Copyright,Patents,Politics,Security,Uncategorized]
 ---
 The USPTO's Office of International relations released a report in November 2006 titled [**Filesharing Programs and "Technological Features to Induce Users to Share"**](http://www.uspto.gov/web/offices/dcom/olia/copyright/oir_report_on_inadvertent_sharing_v1012.pdf "Direct link to PDF document").
 

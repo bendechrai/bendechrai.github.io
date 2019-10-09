@@ -3,7 +3,7 @@ layout: post
 title: "Friends, Food and Film"
 Slug: friends-food-and-film
 date: 2011-02-25 12:59:31
-categories: [Authenticity,Entry,Friends,Fun,Gratitude,Indii,movies]
+tags: [Authenticity,Entry,Friends,Fun,Gratitude,Indii,movies]
 ---
 I left work at 5pm on the dot, walked to the station, caught a 5.03 train that I didn't know existed, which got me to my connecting station in time to get the earlier express train home, arriving at 5.59pm. That's a very good commute!
 

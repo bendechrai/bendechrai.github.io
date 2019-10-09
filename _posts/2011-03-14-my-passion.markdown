@@ -3,7 +3,7 @@ layout: post
 title: "My Passion"
 Slug: my-passion
 date: 2011-03-14 12:59:58
-categories: [Entry]
+tags: [Entry]
 ---
 I went off to Mount Martha with my mum for coffee and cake and a walk along the beach, and while we were there we sat down to talk about her _five things_. If you're not aware of the _five things_ philosophy, check out my [first post](/2011/01/04/an-old-path-rediscovered/) and [my _five things_ page](/my-five-things/).
 

@@ -3,7 +3,7 @@ layout: post
 title: "Changing Your Mind Proves You Have One"
 Slug: changing-your-mind-proves-you-have-one
 date: 2011-04-07 13:31:34
-categories: [Entry,Personal,Perspective]
+tags: [Entry,Personal,Perspective]
 ---
 I wrote a blog post once. It's entitled [Why I don’t want kids](/2006/09/19/why-i-dont-want-kids/ "Why I don’t want kids"), and it surprised me in becoming the most popular post on my blog. People argued their case, told me I was selfish (I had already admitted as much), but mostly people came to say thank you. They thanked me for talking about it publicly, for stating that which should not be said. For \*\*going against societal norms and saying "this is me, I make no apologies for this".
 

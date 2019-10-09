@@ -3,7 +3,7 @@ layout: post
 title: "What a Week"
 Slug: what-a-week
 date: 2011-03-24 04:11:59
-categories: [Communication,Energy,Entry,Me Time]
+tags: [Communication,Energy,Entry,Me Time]
 ---
 Well, I knew on Monday that I was a day behind. I started writing something. Didn't work for me. I had no inspiration for Sunday or Monday.
 

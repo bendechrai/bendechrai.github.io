@@ -3,7 +3,7 @@ layout: post
 title: "Spontaneity"
 Slug: spontaneity
 date: 2011-03-13 10:30:33
-categories: [Energy,Entry,Family,Fun,Opportunity]
+tags: [Energy,Entry,Family,Fun,Opportunity]
 ---
 There was no way we were going to get to Daylesford for 10 am today, let's face it. It's a 2 hours drive, the Pride March was only on for an hour and a half, probably less, so we'd have to \*leave\* the house at 8am. On a Sunday. Not a chance.
 

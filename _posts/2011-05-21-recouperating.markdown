@@ -3,7 +3,7 @@ layout: post
 title: "Recouperating"
 Slug: recouperating
 date: 2011-05-21 09:11:58
-categories: [Energy,Entry,Gratitude,Manifestation,Me Time,Personal,Perspective,Quiet Time]
+tags: [Energy,Entry,Gratitude,Manifestation,Me Time,Personal,Perspective,Quiet Time]
 ---
 "I won't make it in time. I'll get there and the doors will be shut. I'll have to turn around, buy some coffee and come home again. Then I can just rest and drink coffee."
 

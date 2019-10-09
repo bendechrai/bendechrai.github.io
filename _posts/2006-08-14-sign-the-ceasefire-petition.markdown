@@ -3,7 +3,7 @@ layout: post
 title: "Help Stop the Bloodshed in the Middle East"
 Slug: sign-the-ceasefire-petition
 date: 2006-08-14 00:28:55
-categories: [Politics]
+tags: [Politics]
 ---
 Right now a tragedy is unfolding in the Middle East. Hundreds of civilians have died in the bombings in Lebanon, Israel and Palestine and the death toll is rising every day.
 

@@ -3,7 +3,7 @@ layout: post
 title: "You're not my friend anymore. I'm taking my toys back!"
 Slug: youre-not-my-friend-anymore-im-taking-my-toys-back
 date: 2006-09-12 00:24:19
-categories: [Politics,Random]
+tags: [Politics,Random]
 ---
 Ah, the sound of 5 year olds arguing in the playground. It bring back such fond memories.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Recommendations"
 Slug: recommendations
 date: 2011-04-28 11:56:31
-categories: [Communication,Entry,Personal,Work]
+tags: [Communication,Entry,Personal,Work]
 ---
 I just spent about 2 hours working on other people's careers, reputations, profiles. I'm not gaining anything out of it, except of course the pleasant feeling of helping someone out, and yes, it's reciprocal since I asked them to do the same.
 

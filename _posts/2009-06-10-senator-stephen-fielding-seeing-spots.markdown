@@ -3,7 +3,7 @@ layout: post
 title: "Senator Stephen Fielding Seeing Spots"
 Slug: senator-stephen-fielding-seeing-spots
 date: 2009-06-10 02:25:15
-categories: [Environment,Politics]
+tags: [Environment,Politics]
 ---
 Family First Senator Stephen Fielding has just returned from a study tour in America and is now undecided about the effect of carbon emissions on global warming.
 

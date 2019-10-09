@@ -3,7 +3,7 @@ layout: post
 title: "Joint second BarCamp Sponsors"
 Slug: joint-second-barcamp-sponsors
 date: 2007-02-20 22:07:02
-categories: [BarCamp,Conference,Open Source]
+tags: [BarCamp,Conference,Open Source]
 ---
 In joint second place for the race to sponsor BarCampMelbourne come two community organisations, Linux Australia and the Open Source Developers' Club.
 

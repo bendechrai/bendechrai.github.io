@@ -3,7 +3,7 @@ layout: post
 title: "What is Freedom?"
 Slug: what-is-freedom
 date: 2011-10-03 02:24:21
-categories: [Freedom,Personal]
+tags: [Freedom,Personal]
 ---
 I shared this photo with my network yesterday and had some interesting responses.
 

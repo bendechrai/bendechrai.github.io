@@ -3,7 +3,7 @@ layout: post
 title: "Một hai ba, yo"
 Slug: mot-hai-ba-yo
 date: 2013-02-02 07:01:26
-categories: [Celebration,Culture,Travel]
+tags: [Celebration,Culture,Travel]
 ---
 Chinese New Year is just over a week away, and celebrations are beginning already. The streets are alive with banners of red and flowers are everywhere, including in huge arrangements spelling out messages of, presumably, good luck and prosperity.
 
