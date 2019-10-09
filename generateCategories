@@ -1,0 +1,21 @@
+#!/bin/bash
+
+rm -rf categories
+mkdir categories
+
+CATEGORIES=`cat _posts/*markdown |grep -E '^categories:' | sed 's/^categories...//g' | sed 's/.$//g'|sed 's/,/\n/g' | tr A-Z a-z | sed 's/ /-/g' | sort | uniq`
+CATEGORIES=`cat _posts/*markdown |grep -E '^categories:' | sed 's/^categories...//g' | sed 's/.$//g'|sed 's/,/\n/g' | sort | uniq`
+OIFS="$IFS"
+IFS=$'\n'
+
+for CATEGORY in $CATEGORIES
+do
+  SLUG=`echo $CATEGORY | tr A-Z a-z | sed 's/ /-/g'`
+  mkdir categories/$SLUG
+  echo '---' > categories/$SLUG/index.md
+  echo 'layout: category' >> categories/$SLUG/index.md
+  echo 'category: '$CATEGORY >> categories/$SLUG/index.md
+  echo '---' >> categories/$SLUG/index.md
+done
+
+IFS="$OIFS"
