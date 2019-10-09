@@ -1,0 +1,21 @@
+div.site-header header {
+
+  display: flex;
+
+  div, nav {
+    flex-grow: 1;
+  }
+
+  div {
+    font-size: 2em;
+  }
+
+  nav {
+    text-align: right;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+}

@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+h6, p, li, blockquote {
+  font-size: 1rem;
+}
+
+nav {
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      display: inline-block;
+      margin: 0.5em 0;
+
+      a {
+        padding: 0.5em 1em;
+      }
+
+    }
+  }
+
+}
+
+div.content {
+
+  margin: 1em;
+
+}
+
+div.site-footer footer {
+  background: #444;
+  color: #ddd;
+  padding: 1rem;
+  text-align: center;
+  nav a {
+    color: #ddd;
+  }
+}
+

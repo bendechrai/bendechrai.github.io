@@ -1,0 +1,52 @@
+div.newsletter {
+
+  margin-top: 5rem;
+  border-top: 10px solid #ccc;
+  border-bottom: 10px solid #ccc;
+  background-color: #eee;
+  padding: 3rem 2rem;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  button, input {
+    padding: 0.5em;
+    font-size: 110%;
+  }
+
+  .inputs {
+    display: flex;
+    justify-content: space-between;
+    input {
+      margin: 1%;
+      width: 100%;
+    }
+  }
+ 
+  .topics {
+    strong {
+      margin-left: 1%;
+    }
+    ul {
+      display: inline-block;
+      list-style: none;
+      padding: 0;
+      li {
+        display: inline-block;
+        padding: 1rem;
+        margin-left: 1rem;
+        border: 1px solid #ccc;
+        &:hover {
+          background-color: #bbb;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+
+  .button button {
+    width: 100%;
+  }
+
+}
