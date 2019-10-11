@@ -1,0 +1,13 @@
+---
+layout: talk
+title: "Writing Viruses for Fun, not Profit"
+---
+Going viral hasn't always been considered good. Whether you're fighting the common cold, or trying to remove the ILOVEYOU computer worm from your corporate file server, two things are certain: your immune system is based on your gut health, and computers have really poor gut health.
+
+Stopping viruses is hard. The main reason for this is that viruses are really clever. They've evolved over time to escape detection. Each previously detected virus allows the next iteration of the virus to become more resilient. The second reason is that your computer's gut health has to fight every virus, whereas each virus just has to find one immuno-compromised system to survive.
+
+Let's work out how viruses hide. How to they sneak past the checkpoints. How they attach themselves to your system. How they fight detection, and removal. We'll look at aspects such as self-replication, cryptographic obfuscation, and touch on methods of delivery and infection.
+
+Now that you're thinking like a virus writer, you can anticipate which areas of your applications need hardening. Just remember, we're doing it for good, not profit :)
+
+This presentation will feature live demos of writing PHP viruses, and infection of willing targets. The theories apply equally to many languages, so an understanding of PHP is not required.
