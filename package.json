@@ -1,0 +1,23 @@
+{
+  "name": "bendechrai.github.io",
+  "version": "1.0.0",
+  "description": "Okay, so it's taken me a while to catch up, but I figured it was about time I moved to a staic site generator, especially one that allows me to host my site for free on [Github Pages](https://pages.github.com/). Thanks Github!",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "vdata-parser": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendechrai/bendechrai.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bendechrai/bendechrai.github.io/issues"
+  },
+  "homepage": "https://github.com/bendechrai/bendechrai.github.io#readme"
+}

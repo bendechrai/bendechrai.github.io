@@ -1,0 +1,95 @@
+#!/usr/bin/env node
+
+const parser = require('vdata-parser');
+const request = require('request');
+const fs = require('fs');
+
+// Delete old generated files
+fs.readdir('./_events', (error, files) => {
+  if (error) throw error;
+  files.filter(name => /^[0-9]{8}\.generated/.test(name)).forEach((file) => {
+    fs.unlink(`./_events/${file}`, (error) => {
+      if (error) throw error;
+    });
+  });
+});
+
+// Pull in calendar data
+request.get(
+  'https://cloud.priva.si/remote.php/dav/public-calendars/XRoYgPaKkJ88mXYp?export',
+  (error, response, body) => error ? console.log(`Couldn't load calendar`) : processCalendar(body)
+);
+
+// Process the calendar data
+function processCalendar(data) {
+
+  parser.fromString(data).VCALENDAR.VEVENT.forEach((vEvent) => {
+
+    // The event description contains VCAL encoded JSON, which needs fixing up 
+    let details = decodeDescription(vEvent.DESCRIPTION);
+
+    // Decode the JSON
+    try {
+      details = JSON.parse(details);
+    } catch(e) {
+      details = {
+        malformedJson: true,
+        originalData: details
+      };
+    }
+
+    // Build and store the event info in the right event list
+    let event = {
+      start     : getDatum(vEvent.DTSTART.value).slice(0,8),
+      year      : getDatum(vEvent.DTSTART.value).slice(0,4),
+      month     : getDatum(vEvent.DTSTART.value).slice(4,6),
+      day       : getDatum(vEvent.DTSTART.value).slice(6,8),
+      name      : getDatum(vEvent.SUMMARY),
+      location  : getDatum(vEvent.LOCATION),
+      role      : getDatum(details.role),
+      type      : getDatum(details.type),
+    };
+
+    // Build file content
+    let content = `---\n`;
+    content += `layout: event\n`;
+    content += `title: "${event.name}"\n`;
+    content += `location: "${event.location}"\n`;
+    content += `date: "${event.year}-${event.month}-${event.day}"\n`
+    content += `permalink: "schedule/${event.year}/${event.month}/${event.day}/${event.name.toLowerCase().replace(/ /g, '-') }"\n`;
+    content += `---\n`;
+
+    // Create file
+    fs.writeFile(`./_events/${event.start}.generated.${event.name.toLowerCase().replace(/ /g, '-')}.md`, content, function(err) {
+        if(err) {
+            return console.log(err);
+        }
+    }); 
+
+  });
+
+}
+
+function getDatum(input) {
+  let datum = input || '';
+  datum = datum.replace(/\\,/g, ',');
+  return datum;
+}
+
+function decodeDescription(details) {
+
+    // Get event details, which should be JSON
+    details = details || '{}';
+
+    // Remove new lines after commas and open braces, and before close braces
+    details = details.replace(/\\, *\\n/g, ',');
+    details = details.replace(/{ *\\n/g, '{');
+    details = details.replace(/\\n *}/g, '}');
+
+    // Unslash chars that break JSON.parse
+    details = details.replace(/\\,/g, ',');
+    details = details.replace(/\\;/g, ';');
+    details = details.replace(/\\'/g, "'");
+
+    return details;
+}
