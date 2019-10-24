@@ -7,12 +7,12 @@
     {% if paginator.previous_page %}
       <li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
     {% else %}
-      <li>&laquo;</li>
+      <li><span>&laquo;</span></li>
     {% endif %}
 
     {% if paginator.page > 1 %}<li><a href="/articles">1</a></li>{% endif %}
 
-    {% if paginator.page > 3 %}<li>...</li>{% endif %}
+    {% if paginator.page > 3 %}<li>&hellip;</li>{% endif %}
 
     {% if paginator.page == paginator.total_pages %}<li><a href="/articles/page{{ total_pages_minus_2 }}">{{ total_pages_minus_2 }}</a></li>{% endif %}
     {% if paginator.page > 2 %}<li><a href="/articles/page{{ paginator.page | minus: 1 }}">{{ paginator.page | minus: 1 }}</a></li>{% endif %}
@@ -20,14 +20,14 @@
     {% if paginator.page < paginator.total_pages %}<li><a href="/articles/page{{ paginator.page | plus: 1 }}">{{ paginator.page | plus: 1 }}</a></li>{% endif %}
     {% if paginator.page == 1 %}<li><a href="/articles/page3">3</a></li>{% endif %}
 
-    {% if paginator.page < total_pages_minus_2 %}<li>...</li>{% endif %}
+    {% if paginator.page < total_pages_minus_2 %}<li>&hellip;</li>{% endif %}
 
     {% if paginator.page < total_pages_minus_1 %}<li><a href="/articles/page{{ paginator.total_pages }}">{{ paginator.total_pages }}</a></li>{% endif %}
 
     {% if paginator.next_page %}
       <li><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
     {% else %}
-      <li>&raquo;</li>
+      <li><span>&raquo;</span></li>
     {% endif %}
   </ul>
 </nav>

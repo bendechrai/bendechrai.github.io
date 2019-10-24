@@ -36,14 +36,33 @@ nav {
     li {
       display: inline-block;
       margin: 0.5em 0;
+      padding: 0;
 
-      a {
+      span, a, strong {
         padding: 0.5em 1em;
       }
 
     }
   }
 
+}
+
+nav.pagination {
+  text-align: right;
+  ul li {
+    span, a, strong {
+      border: 1px solid #ccc;
+    }
+    strong {
+      background-color: #444;
+      color: #ddd;
+      border-color: #000;
+    }
+    a:hover {
+      background-color: #eee;
+      border-color: #666;
+    }
+  }
 }
 
 div.content {
