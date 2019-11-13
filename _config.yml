@@ -16,11 +16,12 @@
 title: Ben Dechrai
 email: ben@dechrai.com
 tagline: Technologist &middot; Public Speaker &middot; Hacker
-description: >- # this means to ignore newlines until "baseurl:"
-  Ben Dechrai is a technologist with a strong focus on security and privacy. At 11 years
-  old he wrote software to stop his parents from breaking the family PC, and now he working
-  as a developer advocate for Auth0. He enjoys helping developers find the joy of problem
-  solving and experimentation.
+description: Technologist &middot; Public Speaker &middot; Hacker
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Ben Dechrai is a technologist with a strong focus on security and privacy. At 11 years
+#  old he wrote software to stop his parents from breaking the family PC, and now he working
+#  as a developer advocate for Auth0. He enjoys helping developers find the joy of problem
+#  solving and experimentation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bendechrai.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bendechrai
