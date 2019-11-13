@@ -1,5 +1,11 @@
+@mixin box {
+  border-radius: 5px 20px 5px 20px;
+  box-shadow: 0 0 10px #000000;
+}
+
 body {
   margin: 0;
+  font-family: sans-serif;
 }
 
 h1 {
@@ -7,19 +13,19 @@ h1 {
 }
 
 h2 {
-  font-size: 1.8rem;
-}
-
-h3 {
   font-size: 1.6rem;
 }
 
-h4 {
+h3 {
   font-size: 1.4rem;
 }
 
-h5 {
+h4 {
   font-size: 1.2rem;
+}
+
+h5 {
+  font-size: 1.1rem;
 }
 
 h6, p, li, blockquote {
@@ -66,9 +72,11 @@ nav.pagination {
 }
 
 div.content {
-
   margin: 1em;
-
+}
+body.slug .content,
+body.slug-newsletter .content {
+  margin: 0;
 }
 
 div.site-footer footer {

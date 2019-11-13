@@ -1,5 +1,13 @@
 div.site-header header {
 
+  color: #ddd;
+  background-color: #444;
+  background-image: url(/images/banners/ben_profile_right.jpg);
+  background-size: cover;
+  background-position-y: 50px;
+  background-repeat: no-repeat;
+  min-height: 400px;
+
   display: flex;
 
   div, nav {
@@ -8,14 +16,32 @@ div.site-header header {
 
   div {
     font-size: 2em;
+    margin: 8px 0 0 1rem;
   }
 
   nav {
     text-align: right;
+    margin: 8px 1rem 0 0;
   }
 
   a {
     text-decoration: none;
+    color: #ddd;
   }
 
+}
+body.slug div.site-header header {
+  height: 800px;
+  @media (max-width: 1000px) {
+    background-position-x: calc(100% + 745px);
+  }
+  @media (max-width: 755px) {
+    background-position-x: -245px;
+  }
+}
+body.slug .content {
+  position: absolute;
+  top: 60px;
+  width: 50%;
+  right: 1rem;
 }

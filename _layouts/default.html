@@ -3,7 +3,12 @@
 
   {%- include head.html -%}
 
-  <body>
+  {% if page.url == "/" %}
+    {% assign bodyClassLength = 0 %}
+  {% else %}
+    {% assign bodyClassLength = page.url | size %}
+  {% endif %}
+  <body class="layout-{{page.layout}} slug{{page.url | replace: "/", "-" | truncate: bodyClassLength, "" }}">
 
     {%- include header.html -%}
 

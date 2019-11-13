@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: collection
 title: Articles
 ---
 
 {%- include pagination.html -%}
 
+<div class="container">
 {% for post in paginator.posts %}
   {%- include post_mini.html -%}
 {% endfor %}
+</div>
 
+{%- include pagination.html -%}

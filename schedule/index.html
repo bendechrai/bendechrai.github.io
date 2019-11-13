@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: collection
 title: Events
 ---
 
+<div class="container">
 {% for post in site.events reversed %}
   {%- include post_mini.html -%}
 {% endfor %}
+</div>
 

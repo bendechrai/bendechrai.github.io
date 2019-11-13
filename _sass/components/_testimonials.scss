@@ -1,0 +1,35 @@
+.content .testimonial {
+  @include box;
+  box-shadow: none;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+  margin: 0.5em 1em;
+  padding: 0.5em 1em;
+  position: relative;
+  .message {
+    padding: 1em;
+    &:before {
+      position: absolute;
+      content: '“';
+      top: 0.4em;
+      left: 0.3em;
+      color: #444444;
+      font-family: monospace;
+      font-size: 2.0em;
+    }
+  }
+  .author {
+    display: block;
+    text-align: right;
+  }
+  .organisation {
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    border-top: 1px solid #aaaaaa;
+    font-style: italic;
+    color: #666666;
+    text-align: center;
+    font-size: 80%;
+  }
+}
+
