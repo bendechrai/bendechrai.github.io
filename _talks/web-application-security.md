@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Web Application Security"
+date: 2015-01-01
+hideDate: true
 ---
 Even the simplest web application has so many vectors of attack, it’s no wonder most people forget at least one. Web applications aren’t stand-alone; they are built upon frameworks, upon platforms, upon core libraries, each of which could suffer from vulnerabilities you’re not only unaware of, you’re statistically unlikely to discover them all. Consider, for example, OpenSSL's infamous “Heartbleed” Bug.
 

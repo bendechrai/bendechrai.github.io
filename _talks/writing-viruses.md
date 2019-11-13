@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Writing Viruses for Fun, not Profit"
+date: 2015-01-01
+hideDate: true
 ---
 Going viral hasn't always been considered good. Whether you're fighting the common cold, or trying to remove the ILOVEYOU computer worm from your corporate file server, two things are certain: your immune system is based on your gut health, and computers have really poor gut health.
 

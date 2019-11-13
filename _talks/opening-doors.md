@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Opening Doors with JSON Web Tokens"
+date: 2019-03-01
+hideDate: true
 ---
 Let’s connect our front door to the internet! What could possibly go wrong? Securing IoT is hard, and the last thing we want to do is let some stranger in!
 

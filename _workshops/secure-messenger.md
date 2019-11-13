@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Build your own Secure Messenger in 3 Hours"
+date: 2018-07-01
+hideDate: true
 ---
 Maybe you've written a blog in 5 minutes, but what about a secure, encrypted communications application in 3 hours?
 
