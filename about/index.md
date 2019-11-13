@@ -38,6 +38,13 @@ Sometimes people ask me for a bio. If you're looking for one, here's an option f
 
 If you need a photo of me, have at it:
 
+### Square Profile
+
+![Photo of Ben Dechrai](/images/profile_pics/bendechrai_square_200.jpg)
+* [200 x 200](/images/profile_pics/bendechrai_square_200.jpg)
+* [1024 x 1024](/images/profile_pics/bendechrai_square_1024.jpg)
+* [3689 x 3689](/images/profile_pics/bendechrai_square_3689.jpg)
+
 ### Upper Body
 
 ![Photo of Ben Dechrai](/images/profile_pics/bendechrai_upperbody_200.jpg)
@@ -45,10 +52,10 @@ If you need a photo of me, have at it:
 * [1024 x 1536](/images/profile_pics/bendechrai_upperbody_1024.jpg)
 * [3689 x 5534](/images/profile_pics/bendechrai_upperbody_3689.jpg)
 
-### Square Profile
+### Full Body
 
-![Photo of Ben Dechrai](/images/profile_pics/bendechrai_square_200.jpg)
-* [200 x 200](/images/profile_pics/bendechrai_square_200.jpg)
-* [1024 x 1024](/images/profile_pics/bendechrai_square_1024.jpg)
-* [3689 x 3689](/images/profile_pics/bendechrai_square_3689.jpg)
+![Photo of Ben Dechrai](/images/profile_pics/bendechrai_fullbody_200.jpg)
+* [200 x 300](/images/profile_pics/bendechrai_fullbody_200.jpg)
+* [1024 x 1536](/images/profile_pics/bendechrai_fullbody_1024.jpg)
+* [3689 x 5534](/images/profile_pics/bendechrai_fullbody_3503.jpg)
 
