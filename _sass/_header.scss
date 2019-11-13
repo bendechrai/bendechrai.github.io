@@ -1,9 +1,9 @@
 div.site-header header {
 
   color: #ddd;
-  background-color: #444;
+  background-color: #000;
   background-image: url(/images/banners/ben_profile_right.jpg);
-  background-size: cover;
+  background-size: auto 600px;
   background-position-y: 50px;
   background-repeat: no-repeat;
   min-height: 400px;
@@ -31,6 +31,7 @@ div.site-header header {
 
 }
 body.slug div.site-header header {
+  background-size: cover;
   height: 800px;
   @media (max-width: 1000px) {
     background-position-x: calc(100% + 745px);
