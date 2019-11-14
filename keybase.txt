@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bendechrai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bendechrai.com
+  * I am bendechrai (https://keybase.io/bendechrai) on keybase.
+  * I have a public key ASCXAQEd2uuNjpyKeaqsfWzb0d2eOau6PRBWDqzUosoUiQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209701011ddaeb8d8e9c8a79aaac7d6cdbd1dd9e39abba3d10560eacd4a2ca14890a",
+      "host": "keybase.io",
+      "kid": "01209701011ddaeb8d8e9c8a79aaac7d6cdbd1dd9e39abba3d10560eacd4a2ca14890a",
+      "uid": "18668aaa99c85b37cde3d99722460700",
+      "username": "bendechrai"
+    },
+    "merkle_root": {
+      "ctime": 1534290583,
+      "hash": "df006a41d67a621dfa4dd825eef33a70364496218a2c2502c115a193d3cdfc2ea61a68c8916faece1aae83f79977e7fe562f8058580db2f75a854f85e85dadf3",
+      "hash_meta": "99427cacebbb79f06f9fe527d5edd165e6a52da44b05df15199e4a26971fe156",
+      "seqno": 3457194
+    },
+    "service": {
+      "entropy": "WyP0qpXejvR/uifh7o4nstEY",
+      "hostname": "bendechrai.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1534290607,
+  "expire_in": 504576000,
+  "prev": "d0322d37cc82db6bd85d89a172f58ceb8eae36b7ca23da40cb56ef8c3169acc3",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglwEBHdrrjY6cinmqrH1s29Hdnjmruj0QVg6s1KLKFIkKp3BheWxvYWTESpcCCcQg0DItN8yC22vYXYmhcvWM646uNrfKI9pAy1bvjDFprMPEIFgwYQEpJ9CgVikjytJ5c7ytv7wG59MRxWjDnC8HNmjPAgHCo3NpZ8RA5cMI9iw4btUE81c8RXRbXClG1FSSQo3/RkNDj43DACPE0rbtpQlDm1sMVO9/YFIYYxxz+T5vlNsE9FtpUjoPA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ2Mxh0gys6w4ourjisRi17IqxWafJamQSGFPnEGdcx+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bendechrai
+
+==================================================================
