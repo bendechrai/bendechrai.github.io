@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Syncopate:400,700&display=swap');
+
 @mixin box {
   border-radius: 5px 20px 5px 20px;
   box-shadow: 0 0 10px #000000;
@@ -10,6 +12,7 @@ body {
 
 h1 {
   font-size: 2rem;
+  font-family: 'Syncopate', sans-serif;
 }
 
 h2 {
