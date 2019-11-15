@@ -80,9 +80,8 @@ body.slug .content {
   width: 50%;
   right: 1rem;
   @media (max-width: 550px) {
-    top: auto;
+    top: 200px;
     left: 1rem;
-    bottom: 2rem;
     width: auto;
     opacity: 0.8;
   }
