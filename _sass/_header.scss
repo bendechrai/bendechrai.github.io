@@ -86,3 +86,9 @@ body.slug .content {
     opacity: 0.8;
   }
 }
+
+body.layout-minimal div.site-header header {
+  background: none;
+  background-color: #000;
+  min-height: inherit;
+}
