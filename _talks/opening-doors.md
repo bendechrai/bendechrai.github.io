@@ -10,8 +10,8 @@ Let’s take a step back and consider other ways of securing that door, and gran
 
 In this talk, you will learn:
 * how JSON Web Tokens can be used to transmit credentials to an air-gapped device;
-* ow this process can still allow someone to grant remote access;
-* ow to apply this theory to other IoT devices; and
-* ow this theory can help even in IoT devices that need direct internet access.
+* how this process can still allow someone to grant remote access;
+* how to apply this theory to other IoT devices; and
+* how this theory can help even in IoT devices that need direct internet access.
 
 The talk includes a live demo, featuring an actual door.
