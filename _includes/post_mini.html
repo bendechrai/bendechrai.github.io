@@ -1,7 +1,7 @@
 <article itemscope itemtype="http://schema.org/BlogPosting">
   <header>
 
-    {% if post.eventLogo != "" %}
+    {% if post.eventLogo && post.eventLogo != "" %}
     <div class="headline">
       <img src="{{ post.eventLogo }}" alt="{{ post.title | escape }}" />
     </div>
