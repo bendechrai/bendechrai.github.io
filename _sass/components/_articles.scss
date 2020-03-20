@@ -1,14 +1,25 @@
 div.container {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(24em, auto));
   article {
-    flex-grow: 1;
-    width: 15rem;
     margin: 5px;
     padding: 1rem;
+    border: 1px dashed #ddd;
+    .headline {
+      height: 5rem;
+      position: relative;
+      img {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        max-width: 100%;
+        max-height: 5rem;
+      }
+    }
     h2 {
       margin: 0;
+      height: 5rem;
     }
     time {
       text-align: right;
@@ -16,9 +27,14 @@ div.container {
       font-style: italic;
       font-size: 90%;
       color: #888;
+      margin-top: 1rem;
+    }
+    .teaser {
+      margin-top: 1rem;
     }
   }
   article:hover {
+    border-color: transparent;
     box-shadow: #ddd 0px 0px 9px;
   }
 }
