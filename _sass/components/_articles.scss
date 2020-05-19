@@ -38,4 +38,17 @@ div.container {
     box-shadow: #ddd 0px 0px 9px;
   }
 }
-  
+
+body.layout-post article {
+
+  h1 {
+    margin-bottom: 0;
+  }
+
+  time {
+    display: block;
+    text-align: right;
+    font-style: italic;
+  }
+
+}

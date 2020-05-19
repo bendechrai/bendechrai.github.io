@@ -5,19 +5,10 @@ layout: default
 
   <header>
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-    <p>
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-    </p>
-    <p>
-      <ul>
-      {% for tag in page.tags %}
-        <li><a href="/tags/{{ tag | downcase | replace: ' ', '-' }}">{{ tag }}</a></li>
-      {% endfor %}
-      </ul>
-    </p>
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {{ page.date | date: date_format }}
+    </time>
   </header>
 
   <div itemprop="articleBody">
