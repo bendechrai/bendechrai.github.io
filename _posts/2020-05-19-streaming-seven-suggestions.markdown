@@ -79,4 +79,4 @@ When you do gesture, consider if you're gesturing too low. I tend to raise my ar
 
 But what about live demos? If you're standing, you'll still need to type. If you have a sit/stand or full-time standing desk, this isn't an issue. If not, why not grab a few boxes from your latest online shopping delivery and build a mini podium? I don't recommend including the ripped cardboard containers in the frame of the video, but this solution will bring your laptop or keyboard and mouse to the perfect position to still use your computer.
 
-Ultimately, anything you can do to make your space work for you is fair game. It might look like a pile of junk hacked together by McGyver, but that's all behind the scenes. No-one will see it, and if they did, I'm sure someone been hackier!
+Ultimately, anything you can do to make your space work for you is fair game. It might look like a pile of junk hacked together by McGyver, but that's all behind the scenes. No-one will see it, and if they did, I'm sure someone's been hackier!
