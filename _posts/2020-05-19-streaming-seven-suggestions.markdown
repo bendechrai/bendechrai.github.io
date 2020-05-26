@@ -57,7 +57,7 @@ Monitor your own stream. I was running an online meetup a few months ago, and ha
 
 Had I not been monitoring, I'd have noticed the audience messages, but it's best not to rely on that. If you can watch your live stream on another monitor or device, you'll quickly pick up if the webcam's disabled, audio's dead, or even if the stream has stopped altogether.
 
-##  Streamline Transitio
+##  Streamline Transitions
 
 If you've done any amount of streaming, you've probably heard of OBS. This free and open-source software allows you to create scenes with different component layouts. Want to show your desktop full-screen with your video in the corner? Done. Switch to just your video while you're talking about something complex? That scene's a click of a mouse away.
 
