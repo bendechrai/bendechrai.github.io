@@ -3,3 +3,21 @@
 @import "header";
 @import "newsletter";
 @import "components";
+
+.profile_pics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  max-width: 960px;
+  div {
+    text-align: center;
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+        margin: 0;
+        padding: 0;
+      }
+    }
+  }
+}
